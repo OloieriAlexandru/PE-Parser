@@ -1,0 +1,1198 @@
+MZPE Information:
+
+Information: 
+Machine : Intel I386
+Type : DLL
+Created : Thu Jul  4 09:37:25 2019
+Architecture : 32 bit
+
+Exports: 
+PyAST_Compile Ord: 1 RVA: 0xd6b70
+PyAST_FromNode Ord: 2 RVA: 0xc67a0
+PyArena_AddPyObject Ord: 3 RVA: 0xe4320
+PyArena_Free Ord: 4 RVA: 0xe42a0
+PyArena_Malloc Ord: 5 RVA: 0xe42f0
+PyArena_New Ord: 6 RVA: 0xe4230
+PyArg_Parse Ord: 7 RVA: 0xdbde0
+PyArg_ParseTuple Ord: 8 RVA: 0xdbe40
+PyArg_ParseTupleAndKeywords Ord: 9 RVA: 0xdbc20
+PyArg_UnpackTuple Ord: a RVA: 0xd9c50
+PyArg_VaParse Ord: b RVA: 0xdbea0
+PyArg_VaParseTupleAndKeywords Ord: c RVA: 0xdbd00
+PyBaseObject_Type Ord: d RVA: 0x227f98
+PyBaseString_Type Ord: e RVA: 0x227300
+PyBool_FromLong Ord: f RVA: 0x68750
+PyBool_Type Ord: 10 RVA: 0x217fe0
+PyBuffer_FillContiguousStrides Ord: 11 RVA: 0x64f80
+PyBuffer_FillInfo Ord: 12 RVA: 0x64ff0
+PyBuffer_FromContiguous Ord: 13 RVA: 0x64e90
+PyBuffer_FromMemory Ord: 14 RVA: 0x68b40
+PyBuffer_FromObject Ord: 15 RVA: 0x68aa0
+PyBuffer_FromReadWriteMemory Ord: 16 RVA: 0x68b60
+PyBuffer_FromReadWriteObject Ord: 17 RVA: 0x68af0
+PyBuffer_GetPointer Ord: 18 RVA: 0x64cc0
+PyBuffer_IsContiguous Ord: 19 RVA: 0x64c70
+PyBuffer_New Ord: 1a RVA: 0x68b80
+PyBuffer_Release Ord: 1b RVA: 0x65090
+PyBuffer_ToContiguous Ord: 1c RVA: 0x64da0
+PyBuffer_Type Ord: 1d RVA: 0x218238
+PyByteArrayIter_Type Ord: 1e RVA: 0x21a0e8
+PyByteArray_AsString Ord: 1f RVA: 0x69b40
+PyByteArray_Concat Ord: 20 RVA: 0x69c00
+PyByteArray_Fini Ord: 21 RVA: 0x69850
+PyByteArray_FromObject Ord: 22 RVA: 0x69a70
+PyByteArray_FromStringAndSize Ord: 23 RVA: 0x69a90
+PyByteArray_Init Ord: 24 RVA: 0x69880
+PyByteArray_Resize Ord: 25 RVA: 0x69b50
+PyByteArray_Size Ord: 26 RVA: 0x16370
+PyByteArray_Type Ord: 27 RVA: 0x219fc8
+PyCFunction_Call Ord: 28 RVA: 0x8f740
+PyCFunction_ClearFreeList Ord: 29 RVA: 0x8fe00
+PyCFunction_Fini Ord: 2a RVA: 0x8fe40
+PyCFunction_GetFlags Ord: 2b RVA: 0x8f710
+PyCFunction_GetFunction Ord: 2c RVA: 0x8f6b0
+PyCFunction_GetSelf Ord: 2d RVA: 0x8f6e0
+PyCFunction_New Ord: 2e RVA: 0x8fe50
+PyCFunction_NewEx Ord: 2f RVA: 0x8f610
+PyCFunction_Type Ord: 30 RVA: 0x223788
+PyCObject_AsVoidPtr Ord: 31 RVA: 0x73430
+PyCObject_FromVoidPtr Ord: 32 RVA: 0x73390
+PyCObject_FromVoidPtrAndDesc Ord: 33 RVA: 0x733d0
+PyCObject_GetDesc Ord: 34 RVA: 0x73480
+PyCObject_Import Ord: 35 RVA: 0x734d0
+PyCObject_SetVoidPtr Ord: 36 RVA: 0x73530
+PyCObject_Type Ord: 37 RVA: 0x21a940
+PyCallIter_New Ord: 38 RVA: 0x879e0
+PyCallIter_Type Ord: 39 RVA: 0x222528
+PyCallable_Check Ord: 3a RVA: 0x92380
+PyCell_Get Ord: 3b RVA: 0x6f080
+PyCell_New Ord: 3c RVA: 0x6f010
+PyCell_Set Ord: 3d RVA: 0x6f0b0
+PyCell_Type Ord: 3e RVA: 0x21a1d8
+PyClassMethod_New Ord: 3f RVA: 0x85860
+PyClassMethod_Type Ord: 40 RVA: 0x221998
+PyClass_IsSubclass Ord: 41 RVA: 0x6f840
+PyClass_New Ord: 42 RVA: 0x716d0
+PyClass_Type Ord: 43 RVA: 0x21a350
+PyCode_Addr2Line Ord: 44 RVA: 0x74070
+PyCode_CheckLineNumber Ord: 45 RVA: 0x740c0
+PyCode_New Ord: 46 RVA: 0x73650
+PyCode_Optimize Ord: 47 RVA: 0xe38f0
+PyCode_Type Ord: 48 RVA: 0x21ac10
+PyCodec_BackslashReplaceErrors Ord: 49 RVA: 0xd07c0
+PyCodec_Decode Ord: 4a RVA: 0xd0fc0
+PyCodec_Decoder Ord: 4b RVA: 0xd0e40
+PyCodec_Encode Ord: 4c RVA: 0xd0ed0
+PyCodec_Encoder Ord: 4d RVA: 0xd0e30
+PyCodec_IgnoreErrors Ord: 4e RVA: 0xd0310
+PyCodec_IncrementalDecoder Ord: 4f RVA: 0xd0e70
+PyCodec_IncrementalEncoder Ord: 50 RVA: 0xd0e50
+PyCodec_LookupError Ord: 51 RVA: 0xd10c0
+PyCodec_Register Ord: 52 RVA: 0xd0ae0
+PyCodec_RegisterError Ord: 53 RVA: 0xd01d0
+PyCodec_ReplaceErrors Ord: 54 RVA: 0xd03c0
+PyCodec_StreamReader Ord: 55 RVA: 0xd0e90
+PyCodec_StreamWriter Ord: 56 RVA: 0xd0eb0
+PyCodec_StrictErrors Ord: 57 RVA: 0xd02c0
+PyCodec_XMLCharRefReplaceErrors Ord: 58 RVA: 0xd05a0
+PyComplex_AsCComplex Ord: 59 RVA: 0x74850
+PyComplex_FromCComplex Ord: 5a RVA: 0x74750
+PyComplex_FromDoubles Ord: 5b RVA: 0x747c0
+PyComplex_ImagAsDouble Ord: 5c RVA: 0x74820
+PyComplex_RealAsDouble Ord: 5d RVA: 0x747e0
+PyComplex_Type Ord: 5e RVA: 0x21af28
+PyDescr_NewClassMethod Ord: 5f RVA: 0x76ac0
+PyDescr_NewGetSet Ord: 60 RVA: 0x76b20
+PyDescr_NewMember Ord: 61 RVA: 0x76af0
+PyDescr_NewMethod Ord: 62 RVA: 0x76a90
+PyDescr_NewWrapper Ord: 63 RVA: 0x76b50
+PyDictProxy_New Ord: 64 RVA: 0x76db0
+PyDictProxy_Type Ord: 65 RVA: 0x21b598
+PyDict_Clear Ord: 66 RVA: 0x77e20
+PyDict_Contains Ord: 67 RVA: 0x797f0
+PyDict_Copy Ord: 68 RVA: 0x79ed0
+PyDict_DelItem Ord: 69 RVA: 0x77d70
+PyDict_DelItemString Ord: 6a RVA: 0x79940
+PyDict_Fini Ord: 6b RVA: 0x77690
+PyDict_GetItem Ord: 6c RVA: 0x77bf0
+PyDict_GetItemString Ord: 6d RVA: 0x798a0
+PyDict_Items Ord: 6e RVA: 0x78f30
+PyDict_Keys Ord: 6f RVA: 0x78eb0
+PyDict_Merge Ord: 70 RVA: 0x78c10
+PyDict_MergeFromSeq2 Ord: 71 RVA: 0x78a70
+PyDict_New Ord: 72 RVA: 0x79ce0
+PyDict_Next Ord: 73 RVA: 0x77f20
+PyDict_SetItem Ord: 74 RVA: 0x77cb0
+PyDict_SetItemString Ord: 75 RVA: 0x798e0
+PyDict_Size Ord: 76 RVA: 0x78e80
+PyDict_Type Ord: 77 RVA: 0x21c458
+PyDict_Update Ord: 78 RVA: 0x79eb0
+PyDict_Values Ord: 79 RVA: 0x78ef0
+PyEllipsis_Type Ord: 7a RVA: 0x224c20
+PyEnum_Type Ord: 7b RVA: 0x21c948
+PyErr_BadArgument Ord: 7c RVA: 0xd7170
+PyErr_BadInternalCall Ord: 7d RVA: 0xd7e50
+PyErr_CheckSignals Ord: 7e RVA: 0x4f910
+PyErr_Clear Ord: 7f RVA: 0xd7160
+PyErr_Display Ord: 80 RVA: 0xf0da0
+PyErr_ExceptionMatches Ord: 81 RVA: 0xd7bc0
+PyErr_Fetch Ord: 82 RVA: 0xd7130
+PyErr_Format Ord: 83 RVA: 0xd7620
+PyErr_GivenExceptionMatches Ord: 84 RVA: 0xd7a90
+PyErr_NewException Ord: 85 RVA: 0xd7660
+PyErr_NoMemory Ord: 86 RVA: 0xd7df0
+PyErr_NormalizeException Ord: 87 RVA: 0xd7be0
+PyErr_Occurred Ord: 88 RVA: 0xd7120
+PyErr_Print Ord: 89 RVA: 0xf22f0
+PyErr_PrintEx Ord: 8a RVA: 0xf1d90
+PyErr_ProgramText Ord: 8b RVA: 0xd7970
+PyErr_Restore Ord: 8c RVA: 0xd7010
+PyErr_SetExcFromWindowsErr Ord: 8d RVA: 0xd7530
+PyErr_SetExcFromWindowsErrWithFilename Ord: 8e RVA: 0xd7480
+PyErr_SetExcFromWindowsErrWithFilenameObject Ord: 8f RVA: 0xd7380
+PyErr_SetExcFromWindowsErrWithUnicodeFilename Ord: 90 RVA: 0xd74d0
+PyErr_SetFromErrno Ord: 91 RVA: 0xd7370
+PyErr_SetFromErrnoWithFilename Ord: 92 RVA: 0xd72c0
+PyErr_SetFromErrnoWithFilenameObject Ord: 93 RVA: 0xd7190
+PyErr_SetFromErrnoWithUnicodeFilename Ord: 94 RVA: 0xd7310
+PyErr_SetFromWindowsErr Ord: 95 RVA: 0xd7550
+PyErr_SetFromWindowsErrWithFilename Ord: 96 RVA: 0xd7570
+PyErr_SetFromWindowsErrWithUnicodeFilename Ord: 97 RVA: 0xd75c0
+PyErr_SetInterrupt Ord: 98 RVA: 0x4f9d0
+PyErr_SetNone Ord: 99 RVA: 0xd70d0
+PyErr_SetObject Ord: 9a RVA: 0xd70a0
+PyErr_SetString Ord: 9b RVA: 0xd70e0
+PyErr_SyntaxLocation Ord: 9c RVA: 0xd7e70
+PyErr_Warn Ord: 9d RVA: 0xc1030
+PyErr_WarnEx Ord: 9e RVA: 0xc0fc0
+PyErr_WarnExplicit Ord: 9f RVA: 0xc1aa0
+PyErr_WriteUnraisable Ord: a0 RVA: 0xd77a0
+PyEval_AcquireLock Ord: a1 RVA: 0xcaa60
+PyEval_AcquireThread Ord: a2 RVA: 0xcaa90
+PyEval_CallFunction Ord: a3 RVA: 0xe3090
+PyEval_CallMethod Ord: a4 RVA: 0xe30e0
+PyEval_CallObject Ord: a5 RVA: 0xcc560
+PyEval_CallObjectWithKeywords Ord: a6 RVA: 0xcb630
+PyEval_EvalCode Ord: a7 RVA: 0xcfda0
+PyEval_EvalCodeEx Ord: a8 RVA: 0xcf700
+PyEval_EvalFrame Ord: a9 RVA: 0xcfdd0
+PyEval_EvalFrameEx Ord: aa RVA: 0xcce60
+PyEval_GetBuiltins Ord: ab RVA: 0xcc510
+PyEval_GetCallStats Ord: ac RVA: 0xde190
+PyEval_GetFrame Ord: ad RVA: 0xcb580
+PyEval_GetFuncDesc Ord: ae RVA: 0xcb750
+PyEval_GetFuncName Ord: af RVA: 0xcb6e0
+PyEval_GetGlobals Ord: b0 RVA: 0xcc550
+PyEval_GetLocals Ord: b1 RVA: 0xcc530
+PyEval_GetRestricted Ord: b2 RVA: 0xcb590
+PyEval_InitThreads Ord: b3 RVA: 0xcaa30
+PyEval_MergeCompilerFlags Ord: b4 RVA: 0xcb5b0
+PyEval_ReInitThreads Ord: b5 RVA: 0xcab10
+PyEval_ReleaseLock Ord: b6 RVA: 0xcaa80
+PyEval_ReleaseThread Ord: b7 RVA: 0xcaad0
+PyEval_RestoreThread Ord: b8 RVA: 0xcabe0
+PyEval_SaveThread Ord: b9 RVA: 0xcaba0
+PyEval_SetProfile Ord: ba RVA: 0xcb480
+PyEval_SetTrace Ord: bb RVA: 0xcb4f0
+PyEval_ThreadsInitialized Ord: bc RVA: 0xcaa20
+PyExc_ArithmeticError Ord: bd RVA: 0x21e6d4
+PyExc_AssertionError Ord: be RVA: 0x21e60c
+PyExc_AttributeError Ord: bf RVA: 0x21dc6c
+PyExc_BaseException Ord: c0 RVA: 0x21ce24
+PyExc_BufferError Ord: c1 RVA: 0x21ec4c
+PyExc_BytesWarning Ord: c2 RVA: 0x21f41c
+PyExc_DeprecationWarning Ord: c3 RVA: 0x21eea4
+PyExc_EOFError Ord: c4 RVA: 0x21d884
+PyExc_EnvironmentError Ord: c5 RVA: 0x21d5c4
+PyExc_Exception Ord: c6 RVA: 0x21ceec
+PyExc_FloatingPointError Ord: c7 RVA: 0x21e79c
+PyExc_FutureWarning Ord: c8 RVA: 0x21f1c4
+PyExc_GeneratorExit Ord: c9 RVA: 0x21d20c
+PyExc_IOError Ord: ca RVA: 0x21d68c
+PyExc_ImportError Ord: cb RVA: 0x21d48c
+PyExc_ImportWarning Ord: cc RVA: 0x21f28c
+PyExc_IndentationError Ord: cd RVA: 0x21ddc4
+PyExc_IndexError Ord: ce RVA: 0x21e01c
+PyExc_KeyError Ord: cf RVA: 0x21e0e4
+PyExc_KeyboardInterrupt Ord: d0 RVA: 0x21d3c4
+PyExc_LookupError Ord: d1 RVA: 0x21df54
+PyExc_MemoryError Ord: d2 RVA: 0x21eb84
+PyExc_MemoryErrorInst Ord: d3 RVA: 0x244e48
+PyExc_NameError Ord: d4 RVA: 0x21dadc
+PyExc_NotImplementedError Ord: d5 RVA: 0x21da14
+PyExc_OSError Ord: d6 RVA: 0x21d754
+PyExc_OverflowError Ord: d7 RVA: 0x21e864
+PyExc_PendingDeprecationWarning Ord: d8 RVA: 0x21ef6c
+PyExc_RecursionErrorInst Ord: d9 RVA: 0x244e4c
+PyExc_ReferenceError Ord: da RVA: 0x21eabc
+PyExc_RuntimeError Ord: db RVA: 0x21d94c
+PyExc_RuntimeWarning Ord: dc RVA: 0x21f0fc
+PyExc_StandardError Ord: dd RVA: 0x21cfb4
+PyExc_StopIteration Ord: de RVA: 0x21d144
+PyExc_SyntaxError Ord: df RVA: 0x21dd34
+PyExc_SyntaxWarning Ord: e0 RVA: 0x21f034
+PyExc_SystemError Ord: e1 RVA: 0x21e9f4
+PyExc_SystemExit Ord: e2 RVA: 0x21d2fc
+PyExc_TabError Ord: e3 RVA: 0x21de8c
+PyExc_TypeError Ord: e4 RVA: 0x21d07c
+PyExc_UnboundLocalError Ord: e5 RVA: 0x21dba4
+PyExc_UnicodeDecodeError Ord: e6 RVA: 0x21e404
+PyExc_UnicodeEncodeError Ord: e7 RVA: 0x21e33c
+PyExc_UnicodeError Ord: e8 RVA: 0x21e274
+PyExc_UnicodeTranslateError Ord: e9 RVA: 0x21e544
+PyExc_UnicodeWarning Ord: ea RVA: 0x21f354
+PyExc_UserWarning Ord: eb RVA: 0x21eddc
+PyExc_ValueError Ord: ec RVA: 0x21e1ac
+PyExc_Warning Ord: ed RVA: 0x21ed14
+PyExc_WindowsError Ord: ee RVA: 0x21d7bc
+PyExc_ZeroDivisionError Ord: ef RVA: 0x21e92c
+PyFile_AsFile Ord: f0 RVA: 0x7d690
+PyFile_DecUseCount Ord: f1 RVA: 0x7d6d0
+PyFile_FromFile Ord: f2 RVA: 0x7dcc0
+PyFile_FromString Ord: f3 RVA: 0x7dd40
+PyFile_GetLine Ord: f4 RVA: 0x7ead0
+PyFile_IncUseCount Ord: f5 RVA: 0x7d6c0
+PyFile_Name Ord: f6 RVA: 0x7d6e0
+PyFile_SetBufSize Ord: f7 RVA: 0x7dd90
+PyFile_SetEncoding Ord: f8 RVA: 0x7fd50
+PyFile_SetEncodingAndErrors Ord: f9 RVA: 0x7de10
+PyFile_SoftSpace Ord: fa RVA: 0x7f620
+PyFile_Type Ord: fb RVA: 0x220600
+PyFile_WriteObject Ord: fc RVA: 0x7f700
+PyFile_WriteString Ord: fd RVA: 0x7f8e0
+PyFloat_AsDouble Ord: fe RVA: 0x80ce0
+PyFloat_AsReprString Ord: ff RVA: 0x80f80
+PyFloat_AsString Ord: 100 RVA: 0x80f60
+PyFloat_ClearFreeList Ord: 101 RVA: 0x83200
+PyFloat_Fini Ord: 102 RVA: 0x832e0
+PyFloat_FromDouble Ord: 103 RVA: 0x80900
+PyFloat_FromString Ord: 104 RVA: 0x80940
+PyFloat_GetInfo Ord: 105 RVA: 0x83b60
+PyFloat_GetMax Ord: 106 RVA: 0x808e0
+PyFloat_GetMin Ord: 107 RVA: 0x808f0
+PyFloat_Type Ord: 108 RVA: 0x221080
+PyFrame_BlockPop Ord: 109 RVA: 0x847e0
+PyFrame_BlockSetup Ord: 10a RVA: 0x847a0
+PyFrame_ClearFreeList Ord: 10b RVA: 0x84b20
+PyFrame_FastToLocals Ord: 10c RVA: 0x84920
+PyFrame_Fini Ord: 10d RVA: 0x84b60
+PyFrame_LocalsToFast Ord: 10e RVA: 0x84a20
+PyFrame_New Ord: 10f RVA: 0x84530
+PyFrame_Type Ord: 110 RVA: 0x2212b8
+PyFrozenSet_New Ord: 111 RVA: 0x95e00
+PyFrozenSet_Type Ord: 112 RVA: 0x224b58
+PyFunction_GetClosure Ord: 113 RVA: 0x84e10
+PyFunction_GetCode Ord: 114 RVA: 0x84cc0
+PyFunction_GetDefaults Ord: 115 RVA: 0x84d50
+PyFunction_GetGlobals Ord: 116 RVA: 0x84cf0
+PyFunction_GetModule Ord: 117 RVA: 0x84d20
+PyFunction_New Ord: 118 RVA: 0x84bb0
+PyFunction_SetClosure Ord: 119 RVA: 0x84e40
+PyFunction_SetDefaults Ord: 11a RVA: 0x84d80
+PyFunction_Type Ord: 11b RVA: 0x221630
+PyFuture_FromAST Ord: 11c RVA: 0xd94b0
+PyGC_Collect Ord: 11d RVA: 0x303d0
+PyGILState_Ensure Ord: 11e RVA: 0xe4f10
+PyGILState_GetThisThreadState Ord: 11f RVA: 0xe4c30
+PyGILState_Release Ord: 120 RVA: 0xe4c50
+PyGen_NeedsFinalizing Ord: 121 RVA: 0x85fc0
+PyGen_New Ord: 122 RVA: 0x85f30
+PyGen_Type Ord: 123 RVA: 0x221f20
+PyGetSetDescr_Type Ord: 124 RVA: 0x21b340
+PyImport_AddModule Ord: 125 RVA: 0xdca50
+PyImport_AppendInittab Ord: 126 RVA: 0xde3e0
+PyImport_Cleanup Ord: 127 RVA: 0xdc430
+PyImport_ExecCodeModule Ord: 128 RVA: 0xde4a0
+PyImport_ExecCodeModuleEx Ord: 129 RVA: 0xdcb20
+PyImport_ExtendInittab Ord: 12a RVA: 0xde310
+PyImport_FrozenModules Ord: 12b RVA: 0x2391c0
+PyImport_GetImporter Ord: 12c RVA: 0xdd400
+PyImport_GetMagicNumber Ord: 12d RVA: 0xdc990
+PyImport_GetModuleDict Ord: 12e RVA: 0xdc400
+PyImport_Import Ord: 12f RVA: 0xdfd90
+PyImport_ImportFrozenModule Ord: 130 RVA: 0xdd6d0
+PyImport_ImportModule Ord: 131 RVA: 0xdff00
+PyImport_ImportModuleLevel Ord: 132 RVA: 0xdfd30
+PyImport_ImportModuleNoBlock Ord: 133 RVA: 0xdff40
+PyImport_Inittab Ord: 134 RVA: 0x23ca6c
+PyImport_ReloadModule Ord: 135 RVA: 0xdf3d0
+PyInstance_New Ord: 136 RVA: 0x71d40
+PyInstance_NewRaw Ord: 137 RVA: 0x6f900
+PyInstance_Type Ord: 138 RVA: 0x21a588
+PyInt_AsLong Ord: 139 RVA: 0x86150
+PyInt_AsSsize_t Ord: 13a RVA: 0x86230
+PyInt_AsUnsignedLongLongMask Ord: 13b RVA: 0x86370
+PyInt_AsUnsignedLongMask Ord: 13c RVA: 0x86280
+PyInt_ClearFreeList Ord: 13d RVA: 0x873d0
+PyInt_Fini Ord: 13e RVA: 0x87500
+PyInt_FromLong Ord: 13f RVA: 0x86060
+PyInt_FromSize_t Ord: 140 RVA: 0x860b0
+PyInt_FromSsize_t Ord: 141 RVA: 0x860d0
+PyInt_FromString Ord: 142 RVA: 0x86480
+PyInt_FromUnicode Ord: 143 RVA: 0x86630
+PyInt_GetMax Ord: 144 RVA: 0x86000
+PyInt_Type Ord: 145 RVA: 0x222340
+PyInterpreterState_Clear Ord: 146 RVA: 0xe4cb0
+PyInterpreterState_Delete Ord: 147 RVA: 0xe4de0
+PyInterpreterState_Head Ord: 148 RVA: 0xe4ad0
+PyInterpreterState_New Ord: 149 RVA: 0xe46b0
+PyInterpreterState_Next Ord: 14a RVA: 0xe4ae0
+PyInterpreterState_ThreadHead Ord: 14b RVA: 0xe4af0
+PyIter_Next Ord: 14c RVA: 0x67390
+PyList_Append Ord: 14d RVA: 0x87ff0
+PyList_AsTuple Ord: 14e RVA: 0x8a220
+PyList_Fini Ord: 14f RVA: 0x87c40
+PyList_GetItem Ord: 150 RVA: 0x87db0
+PyList_GetSlice Ord: 151 RVA: 0x884e0
+PyList_Insert Ord: 152 RVA: 0x87f60
+PyList_New Ord: 153 RVA: 0x87c70
+PyList_Reverse Ord: 154 RVA: 0x8a1e0
+PyList_SetItem Ord: 155 RVA: 0x87e20
+PyList_SetSlice Ord: 156 RVA: 0x88990
+PyList_Size Ord: 157 RVA: 0x87d80
+PyList_Sort Ord: 158 RVA: 0x8a160
+PyList_Type Ord: 159 RVA: 0x222cb0
+PyLong_AsDouble Ord: 15a RVA: 0x8b7a0
+PyLong_AsLong Ord: 15b RVA: 0x8b0b0
+PyLong_AsLongLong Ord: 15c RVA: 0x8ba70
+PyLong_AsSsize_t Ord: 15d RVA: 0x8b170
+PyLong_AsUnsignedLong Ord: 15e RVA: 0x8b210
+PyLong_AsUnsignedLongLong Ord: 15f RVA: 0x8bbd0
+PyLong_AsUnsignedLongLongMask Ord: 160 RVA: 0x8bc30
+PyLong_AsUnsignedLongMask Ord: 161 RVA: 0x8b2d0
+PyLong_AsVoidPtr Ord: 162 RVA: 0x8b8d0
+PyLong_FromDouble Ord: 163 RVA: 0x8af40
+PyLong_FromLong Ord: 164 RVA: 0x8ae80
+PyLong_FromLongLong Ord: 165 RVA: 0x8b930
+PyLong_FromSize_t Ord: 166 RVA: 0x8ba50
+PyLong_FromSsize_t Ord: 167 RVA: 0x8ba30
+PyLong_FromString Ord: 168 RVA: 0x8c440
+PyLong_FromUnicode Ord: 169 RVA: 0x8c8d0
+PyLong_FromUnsignedLong Ord: 16a RVA: 0x8aef0
+PyLong_FromUnsignedLongLong Ord: 16b RVA: 0x8b9d0
+PyLong_FromVoidPtr Ord: 16c RVA: 0x8b8b0
+PyLong_Type Ord: 16d RVA: 0x223648
+PyMapping_Check Ord: 16e RVA: 0x66820
+PyMapping_GetItemString Ord: 16f RVA: 0x68120
+PyMapping_HasKey Ord: 170 RVA: 0x68210
+PyMapping_HasKeyString Ord: 171 RVA: 0x681d0
+PyMapping_Length Ord: 172 RVA: 0x668b0
+PyMapping_SetItemString Ord: 173 RVA: 0x68170
+PyMapping_Size Ord: 174 RVA: 0x66870
+PyMarshal_ReadLastObjectFromFile Ord: 175 RVA: 0xe2310
+PyMarshal_ReadLongFromFile Ord: 176 RVA: 0xe1de0
+PyMarshal_ReadObjectFromFile Ord: 177 RVA: 0xe1e40
+PyMarshal_ReadObjectFromString Ord: 178 RVA: 0xe1ea0
+PyMarshal_ReadShortFromFile Ord: 179 RVA: 0xe1db0
+PyMarshal_WriteLongToFile Ord: 17a RVA: 0xe1020
+PyMarshal_WriteObjectToFile Ord: 17b RVA: 0xe1050
+PyMarshal_WriteObjectToString Ord: 17c RVA: 0xe1f10
+PyMem_Free Ord: 17d RVA: 0x91760
+PyMem_Malloc Ord: 17e RVA: 0x91720
+PyMem_Realloc Ord: 17f RVA: 0x91740
+PyMemberDescr_Type Ord: 180 RVA: 0x21b278
+PyMember_Get Ord: 181 RVA: 0xf37a0
+PyMember_GetOne Ord: 182 RVA: 0xf30c0
+PyMember_Set Ord: 183 RVA: 0xf3880
+PyMember_SetOne Ord: 184 RVA: 0xf32d0
+PyMethod_Class Ord: 185 RVA: 0x6f280
+PyMethod_ClearFreeList Ord: 186 RVA: 0x71680
+PyMethod_Fini Ord: 187 RVA: 0x716c0
+PyMethod_Function Ord: 188 RVA: 0x6f220
+PyMethod_New Ord: 189 RVA: 0x70e70
+PyMethod_Self Ord: 18a RVA: 0x6f250
+PyMethod_Type Ord: 18b RVA: 0x21a740
+PyModule_AddIntConstant Ord: 18c RVA: 0xe2e10
+PyModule_AddObject Ord: 18d RVA: 0xe2d50
+PyModule_AddStringConstant Ord: 18e RVA: 0xe2e60
+PyModule_GetDict Ord: 18f RVA: 0x8ff40
+PyModule_GetFilename Ord: 190 RVA: 0x90010
+PyModule_GetName Ord: 191 RVA: 0x8ff90
+PyModule_New Ord: 192 RVA: 0x8fe70
+PyModule_Type Ord: 193 RVA: 0x223900
+PyNode_AddChild Ord: 194 RVA: 0xb9b20
+PyNode_Compile Ord: 195 RVA: 0xd6c60
+PyNode_Free Ord: 196 RVA: 0xb9c60
+PyNode_ListTree Ord: 197 RVA: 0xb97e0
+PyNode_New Ord: 198 RVA: 0xb9ad0
+PyNullImporter_Type Ord: 199 RVA: 0x23d298
+PyNumber_Absolute Ord: 19a RVA: 0x65c10
+PyNumber_Add Ord: 19b RVA: 0x657e0
+PyNumber_And Ord: 19c RVA: 0x65720
+PyNumber_AsSsize_t Ord: 19d RVA: 0x65d60
+PyNumber_Check Ord: 19e RVA: 0x650d0
+PyNumber_Coerce Ord: 19f RVA: 0x91150
+PyNumber_CoerceEx Ord: 1a0 RVA: 0x910e0
+PyNumber_Divide Ord: 1a1 RVA: 0x657a0
+PyNumber_Divmod Ord: 1a2 RVA: 0x657c0
+PyNumber_Float Ord: 1a3 RVA: 0x66290
+PyNumber_FloorDivide Ord: 1a4 RVA: 0x65840
+PyNumber_InPlaceAdd Ord: 1a5 RVA: 0x65a70
+PyNumber_InPlaceAnd Ord: 1a6 RVA: 0x65990
+PyNumber_InPlaceDivide Ord: 1a7 RVA: 0x65a10
+PyNumber_InPlaceFloorDivide Ord: 1a8 RVA: 0x65a30
+PyNumber_InPlaceLshift Ord: 1a9 RVA: 0x659b0
+PyNumber_InPlaceMultiply Ord: 1aa RVA: 0x67d70
+PyNumber_InPlaceOr Ord: 1ab RVA: 0x65950
+PyNumber_InPlacePower Ord: 1ac RVA: 0x65b00
+PyNumber_InPlaceRemainder Ord: 1ad RVA: 0x65ae0
+PyNumber_InPlaceRshift Ord: 1ae RVA: 0x659d0
+PyNumber_InPlaceSubtract Ord: 1af RVA: 0x659f0
+PyNumber_InPlaceTrueDivide Ord: 1b0 RVA: 0x65a50
+PyNumber_InPlaceXor Ord: 1b1 RVA: 0x65970
+PyNumber_Index Ord: 1b2 RVA: 0x65cb0
+PyNumber_Int Ord: 1b3 RVA: 0x65ee0
+PyNumber_Invert Ord: 1b4 RVA: 0x65bd0
+PyNumber_Long Ord: 1b5 RVA: 0x660d0
+PyNumber_Lshift Ord: 1b6 RVA: 0x65740
+PyNumber_Multiply Ord: 1b7 RVA: 0x67ce0
+PyNumber_Negative Ord: 1b8 RVA: 0x65b50
+PyNumber_Or Ord: 1b9 RVA: 0x656e0
+PyNumber_Positive Ord: 1ba RVA: 0x65b90
+PyNumber_Power Ord: 1bb RVA: 0x658a0
+PyNumber_Remainder Ord: 1bc RVA: 0x65880
+PyNumber_Rshift Ord: 1bd RVA: 0x65760
+PyNumber_Subtract Ord: 1be RVA: 0x65780
+PyNumber_ToBase Ord: 1bf RVA: 0x66350
+PyNumber_TrueDivide Ord: 1c0 RVA: 0x65860
+PyNumber_Xor Ord: 1c1 RVA: 0x65700
+PyOS_AfterFork Ord: 1c2 RVA: 0x4fa30
+PyOS_CheckStack Ord: 1c3 RVA: 0xf1720
+PyOS_FiniInterrupts Ord: 1c4 RVA: 0x4f9f0
+PyOS_InitInterrupts Ord: 1c5 RVA: 0x4fee0
+PyOS_InputHook Ord: 1c6 RVA: 0x249428
+PyOS_InterruptOccurred Ord: 1c7 RVA: 0x4fa00
+PyOS_Readline Ord: 1c8 RVA: 0xb99f0
+PyOS_ReadlineFunctionPointer Ord: 1c9 RVA: 0x24aa8c
+PyOS_ascii_atof Ord: 1ca RVA: 0xe56d0
+PyOS_ascii_formatd Ord: 1cb RVA: 0xe5590
+PyOS_ascii_strtod Ord: 1cc RVA: 0xe5050
+PyOS_getsig Ord: 1cd RVA: 0xf17d0
+PyOS_mystricmp Ord: 1ce RVA: 0xe4ff0
+PyOS_mystrnicmp Ord: 1cf RVA: 0xe4f80
+PyOS_setsig Ord: 1d0 RVA: 0xf1840
+PyOS_snprintf Ord: 1d1 RVA: 0xe31b0
+PyOS_strtol Ord: 1d2 RVA: 0xe33e0
+PyOS_strtoul Ord: 1d3 RVA: 0xe31d0
+PyOS_vsnprintf Ord: 1d4 RVA: 0xe3170
+PyObject_AsCharBuffer Ord: 1d5 RVA: 0x648e0
+PyObject_AsFileDescriptor Ord: 1d6 RVA: 0x7f9b0
+PyObject_AsReadBuffer Ord: 1d7 RVA: 0x649d0
+PyObject_AsWriteBuffer Ord: 1d8 RVA: 0x64a80
+PyObject_Call Ord: 1d9 RVA: 0x668c0
+PyObject_CallFunction Ord: 1da RVA: 0x669d0
+PyObject_CallFunctionObjArgs Ord: 1db RVA: 0x66cb0
+PyObject_CallMethod Ord: 1dc RVA: 0x66a70
+PyObject_CallMethodObjArgs Ord: 1dd RVA: 0x66c20
+PyObject_CallObject Ord: 1de RVA: 0xcc560
+PyObject_CheckReadBuffer Ord: 1df RVA: 0x649a0
+PyObject_ClearWeakRefs Ord: 1e0 RVA: 0xb91a0
+PyObject_Cmp Ord: 1e1 RVA: 0x64880
+PyObject_Compare Ord: 1e2 RVA: 0x91eb0
+PyObject_CopyData Ord: 1e3 RVA: 0x677b0
+PyObject_DelItem Ord: 1e4 RVA: 0x67690
+PyObject_DelItemString Ord: 1e5 RVA: 0x67750
+PyObject_Dir Ord: 1e6 RVA: 0x928c0
+PyObject_Format Ord: 1e7 RVA: 0x67a10
+PyObject_Free Ord: 1e8 RVA: 0x92ba0
+PyObject_GC_Del Ord: 1e9 RVA: 0x305c0
+PyObject_GC_Track Ord: 1ea RVA: 0x30400
+PyObject_GC_UnTrack Ord: 1eb RVA: 0x30450
+PyObject_GenericGetAttr Ord: 1ec RVA: 0x90ca0
+PyObject_GenericSetAttr Ord: 1ed RVA: 0x90e80
+PyObject_GetAttr Ord: 1ee RVA: 0x90a00
+PyObject_GetAttrString Ord: 1ef RVA: 0x92270
+PyObject_GetBuffer Ord: 1f0 RVA: 0x64b40
+PyObject_GetItem Ord: 1f1 RVA: 0x67500
+PyObject_GetIter Ord: 1f2 RVA: 0x68250
+PyObject_HasAttr Ord: 1f3 RVA: 0x90a90
+PyObject_HasAttrString Ord: 1f4 RVA: 0x922d0
+PyObject_Hash Ord: 1f5 RVA: 0x90990
+PyObject_HashNotImplemented Ord: 1f6 RVA: 0x90960
+PyObject_Init Ord: 1f7 RVA: 0x90390
+PyObject_InitVar Ord: 1f8 RVA: 0x903b0
+PyObject_IsInstance Ord: 1f9 RVA: 0x66fa0
+PyObject_IsSubclass Ord: 1fa RVA: 0x671a0
+PyObject_IsTrue Ord: 1fb RVA: 0x91050
+PyObject_Length Ord: 1fc RVA: 0x67400
+PyObject_Malloc Ord: 1fd RVA: 0x92a30
+PyObject_Not Ord: 1fe RVA: 0x910c0
+PyObject_Print Ord: 1ff RVA: 0x91a10
+PyObject_Realloc Ord: 200 RVA: 0x92d30
+PyObject_Repr Ord: 201 RVA: 0x90450
+PyObject_RichCompare Ord: 202 RVA: 0x91fe0
+PyObject_RichCompareBool Ord: 203 RVA: 0x920c0
+PyObject_SelfIter Ord: 204 RVA: 0x90c90
+PyObject_SetAttr Ord: 205 RVA: 0x90ad0
+PyObject_SetAttrString Ord: 206 RVA: 0x92310
+PyObject_SetItem Ord: 207 RVA: 0x675c0
+PyObject_Size Ord: 208 RVA: 0x673d0
+PyObject_Str Ord: 209 RVA: 0x90600
+PyObject_Type Ord: 20a RVA: 0x648c0
+PyObject_Unicode Ord: 20b RVA: 0x91ac0
+PyParser_ASTFromFile Ord: 20c RVA: 0xf1ab0
+PyParser_ASTFromString Ord: 20d RVA: 0xf1a00
+PyParser_ParseFile Ord: 20e RVA: 0xba7e0
+PyParser_ParseFileFlags Ord: 20f RVA: 0xba740
+PyParser_ParseFileFlagsEx Ord: 210 RVA: 0xba680
+PyParser_ParseString Ord: 211 RVA: 0xba780
+PyParser_ParseStringFlags Ord: 212 RVA: 0xba7b0
+PyParser_ParseStringFlagsFilename Ord: 213 RVA: 0xba710
+PyParser_ParseStringFlagsFilenameEx Ord: 214 RVA: 0xba5e0
+PyParser_SetError Ord: 215 RVA: 0xf1c10
+PyParser_SimpleParseFile Ord: 216 RVA: 0xf1c30
+PyParser_SimpleParseFileFlags Ord: 217 RVA: 0xf1b80
+PyParser_SimpleParseString Ord: 218 RVA: 0xf1c50
+PyParser_SimpleParseStringFlags Ord: 219 RVA: 0xf1bd0
+PyProperty_Type Ord: 21a RVA: 0x21bb98
+PyRange_Type Ord: 21b RVA: 0x223e00
+PyReversed_Type Ord: 21c RVA: 0x21cac8
+PyRun_AnyFile Ord: 21d RVA: 0xf2fe0
+PyRun_AnyFileEx Ord: 21e RVA: 0xf3000
+PyRun_AnyFileExFlags Ord: 21f RVA: 0xf2f80
+PyRun_AnyFileFlags Ord: 220 RVA: 0xf3020
+PyRun_File Ord: 221 RVA: 0xf2220
+PyRun_FileEx Ord: 222 RVA: 0xf2250
+PyRun_FileExFlags Ord: 223 RVA: 0xf20a0
+PyRun_FileFlags Ord: 224 RVA: 0xf2280
+PyRun_InteractiveLoop Ord: 225 RVA: 0xf2f60
+PyRun_InteractiveLoopFlags Ord: 226 RVA: 0xf2ea0
+PyRun_InteractiveOne Ord: 227 RVA: 0xf27d0
+PyRun_InteractiveOneFlags Ord: 228 RVA: 0xf2360
+PyRun_SimpleFile Ord: 229 RVA: 0xf2780
+PyRun_SimpleFileEx Ord: 22a RVA: 0xf27a0
+PyRun_SimpleFileExFlags Ord: 22b RVA: 0xf2540
+PyRun_SimpleString Ord: 22c RVA: 0xf27c0
+PyRun_SimpleStringFlags Ord: 22d RVA: 0xf2720
+PyRun_String Ord: 22e RVA: 0xf22b0
+PyRun_StringFlags Ord: 22f RVA: 0xf2030
+PySTEntry_Type Ord: 230 RVA: 0x23e350
+PyST_GetScope Ord: 231 RVA: 0xf3bf0
+PySeqIter_New Ord: 232 RVA: 0x878a0
+PySeqIter_Type Ord: 233 RVA: 0x222460
+PySequence_Check Ord: 234 RVA: 0x67e10
+PySequence_Concat Ord: 235 RVA: 0x67e70
+PySequence_Contains Ord: 236 RVA: 0x68650
+PySequence_Count Ord: 237 RVA: 0x68630
+PySequence_DelItem Ord: 238 RVA: 0x665e0
+PySequence_DelSlice Ord: 239 RVA: 0x66730
+PySequence_Fast Ord: 23a RVA: 0x68470
+PySequence_GetItem Ord: 23b RVA: 0x66430
+PySequence_GetSlice Ord: 23c RVA: 0x664a0
+PySequence_In Ord: 23d RVA: 0x68690
+PySequence_InPlaceConcat Ord: 23e RVA: 0x67fb0
+PySequence_InPlaceRepeat Ord: 23f RVA: 0x68060
+PySequence_Index Ord: 240 RVA: 0x686a0
+PySequence_Length Ord: 241 RVA: 0x66420
+PySequence_List Ord: 242 RVA: 0x667c0
+PySequence_Repeat Ord: 243 RVA: 0x67f00
+PySequence_SetItem Ord: 244 RVA: 0x66570
+PySequence_SetSlice Ord: 245 RVA: 0x66650
+PySequence_Size Ord: 246 RVA: 0x663e0
+PySequence_Tuple Ord: 247 RVA: 0x682e0
+PySet_Add Ord: 248 RVA: 0x95f80
+PySet_Clear Ord: 249 RVA: 0x95e70
+PySet_Contains Ord: 24a RVA: 0x95ec0
+PySet_Discard Ord: 24b RVA: 0x95f30
+PySet_Fini Ord: 24c RVA: 0x94440
+PySet_New Ord: 24d RVA: 0x95df0
+PySet_Pop Ord: 24e RVA: 0x96110
+PySet_Size Ord: 24f RVA: 0x95e10
+PySet_Type Ord: 250 RVA: 0x2248c8
+PySlice_GetIndices Ord: 251 RVA: 0x96290
+PySlice_GetIndicesEx Ord: 252 RVA: 0x963a0
+PySlice_New Ord: 253 RVA: 0x961c0
+PySlice_Type Ord: 254 RVA: 0x224f18
+PyStaticMethod_New Ord: 255 RVA: 0x85930
+PyStaticMethod_Type Ord: 256 RVA: 0x221c68
+PyString_AsDecodedObject Ord: 257 RVA: 0x96800
+PyString_AsDecodedString Ord: 258 RVA: 0x96840
+PyString_AsEncodedObject Ord: 259 RVA: 0x968d0
+PyString_AsEncodedString Ord: 25a RVA: 0x96910
+PyString_AsString Ord: 25b RVA: 0x993f0
+PyString_AsStringAndSize Ord: 25c RVA: 0x96a10
+PyString_Concat Ord: 25d RVA: 0x98a00
+PyString_ConcatAndDel Ord: 25e RVA: 0x98a70
+PyString_Decode Ord: 25f RVA: 0x992d0
+PyString_DecodeEscape Ord: 260 RVA: 0x9e670
+PyString_Encode Ord: 261 RVA: 0x99320
+PyString_Fini Ord: 262 RVA: 0x98ed0
+PyString_Format Ord: 263 RVA: 0x9d300
+PyString_FromFormat Ord: 264 RVA: 0x9e650
+PyString_FromFormatV Ord: 265 RVA: 0x9e150
+PyString_FromString Ord: 266 RVA: 0x991a0
+PyString_FromStringAndSize Ord: 267 RVA: 0x99060
+PyString_InternFromString Ord: 268 RVA: 0x9e120
+PyString_InternImmortal Ord: 269 RVA: 0x98ea0
+PyString_InternInPlace Ord: 26a RVA: 0x98df0
+PyString_Repr Ord: 26b RVA: 0x995f0
+PyString_Size Ord: 26c RVA: 0x993d0
+PyString_Type Ord: 26d RVA: 0x227458
+PyStructSequence_InitType Ord: 26e RVA: 0x9f570
+PyStructSequence_New Ord: 26f RVA: 0x9eb90
+PySuper_Type Ord: 270 RVA: 0x228d08
+PySymtable_Build Ord: 271 RVA: 0xf5f60
+PySymtable_Free Ord: 272 RVA: 0xf3b40
+PySymtable_Lookup Ord: 273 RVA: 0xf3b90
+PySys_AddWarnOption Ord: 274 RVA: 0xf6ba0
+PySys_GetFile Ord: 275 RVA: 0xf60d0
+PySys_GetObject Ord: 276 RVA: 0xf60b0
+PySys_HasWarnOptions Ord: 277 RVA: 0xf6c10
+PySys_ResetWarnOptions Ord: 278 RVA: 0xf6b70
+PySys_SetArgv Ord: 279 RVA: 0xf7760
+PySys_SetObject Ord: 27a RVA: 0xf6120
+PySys_SetPath Ord: 27b RVA: 0xf7680
+PySys_WriteStderr Ord: 27c RVA: 0xf7a30
+PySys_WriteStdout Ord: 27d RVA: 0xf7a00
+PyThreadState_Clear Ord: 27e RVA: 0xe4730
+PyThreadState_Delete Ord: 27f RVA: 0xe4930
+PyThreadState_DeleteCurrent Ord: 280 RVA: 0xe4980
+PyThreadState_Get Ord: 281 RVA: 0xe49e0
+PyThreadState_GetDict Ord: 282 RVA: 0xe4a10
+PyThreadState_New Ord: 283 RVA: 0xe4e50
+PyThreadState_Next Ord: 284 RVA: 0xe4ae0
+PyThreadState_SetAsyncExc Ord: 285 RVA: 0xe4a50
+PyThreadState_Swap Ord: 286 RVA: 0xe4a00
+PyThread_ReInitTLS Ord: 287 RVA: 0xf7ec0
+PyThread_acquire_lock Ord: 288 RVA: 0xf7be0
+PyThread_allocate_lock Ord: 289 RVA: 0xf7d20
+PyThread_create_key Ord: 28a RVA: 0xf7df0
+PyThread_delete_key Ord: 28b RVA: 0xf7c80
+PyThread_delete_key_value Ord: 28c RVA: 0xf7e50
+PyThread_exit_thread Ord: 28d RVA: 0xf7bc0
+PyThread_free_lock Ord: 28e RVA: 0xf7bd0
+PyThread_get_key_value Ord: 28f RVA: 0xf7e30
+PyThread_get_stacksize Ord: 290 RVA: 0xf7c60
+PyThread_get_thread_ident Ord: 291 RVA: 0xf7d00
+PyThread_init_thread Ord: 292 RVA: 0xf7ce0
+PyThread_release_lock Ord: 293 RVA: 0xf7c10
+PyThread_set_key_value Ord: 294 RVA: 0xf7e10
+PyThread_set_stacksize Ord: 295 RVA: 0xf7c70
+PyThread_start_new_thread Ord: 296 RVA: 0xf7f40
+PyToken_OneChar Ord: 297 RVA: 0xbb970
+PyToken_ThreeChars Ord: 298 RVA: 0xbbc90
+PyToken_TwoChars Ord: 299 RVA: 0xbbaf0
+PyTraceBack_Here Ord: 29a RVA: 0xf8140
+PyTraceBack_Print Ord: 29b RVA: 0xf8560
+PyTraceBack_Type Ord: 29c RVA: 0x240850
+PyTuple_ClearFreeList Ord: 29d RVA: 0xa06f0
+PyTuple_Fini Ord: 29e RVA: 0xa0750
+PyTuple_GetItem Ord: 29f RVA: 0x9f870
+PyTuple_GetSlice Ord: 2a0 RVA: 0x9fea0
+PyTuple_New Ord: 2a1 RVA: 0x9f740
+PyTuple_Pack Ord: 2a2 RVA: 0x9f970
+PyTuple_SetItem Ord: 2a3 RVA: 0x9f8c0
+PyTuple_Size Ord: 2a4 RVA: 0x9f840
+PyTuple_Type Ord: 2a5 RVA: 0x2278a0
+PyType_ClearCache Ord: 2a6 RVA: 0xa5b10
+PyType_GenericAlloc Ord: 2a7 RVA: 0xa0fc0
+PyType_GenericNew Ord: 2a8 RVA: 0xa1080
+PyType_IsSubtype Ord: 2a9 RVA: 0xa14b0
+PyType_Modified Ord: 2aa RVA: 0xa0850
+PyType_Ready Ord: 2ab RVA: 0xa6230
+PyType_Type Ord: 2ac RVA: 0x227d10
+PyUnicodeDecodeError_Create Ord: 2ad RVA: 0x7c160
+PyUnicodeDecodeError_GetEncoding Ord: 2ae RVA: 0x7bb70
+PyUnicodeDecodeError_GetEnd Ord: 2af RVA: 0x7bce0
+PyUnicodeDecodeError_GetObject Ord: 2b0 RVA: 0x7bb90
+PyUnicodeDecodeError_GetReason Ord: 2b1 RVA: 0x7bd50
+PyUnicodeDecodeError_GetStart Ord: 2b2 RVA: 0x7bc20
+PyUnicodeDecodeError_SetEnd Ord: 2b3 RVA: 0x7bd40
+PyUnicodeDecodeError_SetReason Ord: 2b4 RVA: 0x7bd70
+PyUnicodeDecodeError_SetStart Ord: 2b5 RVA: 0x7bc80
+PyUnicodeEncodeError_Create Ord: 2b6 RVA: 0x7c060
+PyUnicodeEncodeError_GetEncoding Ord: 2b7 RVA: 0x7bb70
+PyUnicodeEncodeError_GetEnd Ord: 2b8 RVA: 0x7bc90
+PyUnicodeEncodeError_GetObject Ord: 2b9 RVA: 0x7bbb0
+PyUnicodeEncodeError_GetReason Ord: 2ba RVA: 0x7bd50
+PyUnicodeEncodeError_GetStart Ord: 2bb RVA: 0x7bbd0
+PyUnicodeEncodeError_SetEnd Ord: 2bc RVA: 0x7bd40
+PyUnicodeEncodeError_SetReason Ord: 2bd RVA: 0x7bd70
+PyUnicodeEncodeError_SetStart Ord: 2be RVA: 0x7bc80
+PyUnicodeTranslateError_Create Ord: 2bf RVA: 0x7c300
+PyUnicodeTranslateError_GetEnd Ord: 2c0 RVA: 0x7bd30
+PyUnicodeTranslateError_GetObject Ord: 2c1 RVA: 0x7bbb0
+PyUnicodeTranslateError_GetReason Ord: 2c2 RVA: 0x7bd50
+PyUnicodeTranslateError_GetStart Ord: 2c3 RVA: 0x7bc70
+PyUnicodeTranslateError_SetEnd Ord: 2c4 RVA: 0x7bd40
+PyUnicodeTranslateError_SetReason Ord: 2c5 RVA: 0x7bd70
+PyUnicodeTranslateError_SetStart Ord: 2c6 RVA: 0x7bc80
+PyUnicodeUCS2_AsASCIIString Ord: 2c7 RVA: 0xadaf0
+PyUnicodeUCS2_AsCharmapString Ord: 2c8 RVA: 0xaeda0
+PyUnicodeUCS2_AsEncodedObject Ord: 2c9 RVA: 0xb3d80
+PyUnicodeUCS2_AsEncodedString Ord: 2ca RVA: 0xb3dc0
+PyUnicodeUCS2_AsLatin1String Ord: 2cb RVA: 0xad8e0
+PyUnicodeUCS2_AsRawUnicodeEscapeString Ord: 2cc RVA: 0xacf90
+PyUnicodeUCS2_AsUTF16String Ord: 2cd RVA: 0xac180
+PyUnicodeUCS2_AsUTF32String Ord: 2ce RVA: 0xabd50
+PyUnicodeUCS2_AsUTF8String Ord: 2cf RVA: 0xab830
+PyUnicodeUCS2_AsUnicode Ord: 2d0 RVA: 0xaa8e0
+PyUnicodeUCS2_AsUnicodeEscapeString Ord: 2d1 RVA: 0xacb00
+PyUnicodeUCS2_AsWideChar Ord: 2d2 RVA: 0xaa850
+PyUnicodeUCS2_ClearFreelist Ord: 2d3 RVA: 0xb3c60
+PyUnicodeUCS2_Compare Ord: 2d4 RVA: 0xb5aa0
+PyUnicodeUCS2_Concat Ord: 2d5 RVA: 0xb5d30
+PyUnicodeUCS2_Contains Ord: 2d6 RVA: 0xb5ca0
+PyUnicodeUCS2_Count Ord: 2d7 RVA: 0xb52a0
+PyUnicodeUCS2_Decode Ord: 2d8 RVA: 0xb4c70
+PyUnicodeUCS2_DecodeASCII Ord: 2d9 RVA: 0xad910
+PyUnicodeUCS2_DecodeCharmap Ord: 2da RVA: 0xadde0
+PyUnicodeUCS2_DecodeLatin1 Ord: 2db RVA: 0xad160
+PyUnicodeUCS2_DecodeRawUnicodeEscape Ord: 2dc RVA: 0xacb30
+PyUnicodeUCS2_DecodeUTF16 Ord: 2dd RVA: 0xb3fe0
+PyUnicodeUCS2_DecodeUTF16Stateful Ord: 2de RVA: 0xabd80
+PyUnicodeUCS2_DecodeUTF32 Ord: 2df RVA: 0xb3fc0
+PyUnicodeUCS2_DecodeUTF32Stateful Ord: 2e0 RVA: 0xab860
+PyUnicodeUCS2_DecodeUTF8 Ord: 2e1 RVA: 0xb3fa0
+PyUnicodeUCS2_DecodeUTF8Stateful Ord: 2e2 RVA: 0xab2f0
+PyUnicodeUCS2_DecodeUnicodeEscape Ord: 2e3 RVA: 0xac1b0
+PyUnicodeUCS2_Encode Ord: 2e4 RVA: 0xb4e50
+PyUnicodeUCS2_EncodeASCII Ord: 2e5 RVA: 0xadad0
+PyUnicodeUCS2_EncodeCharmap Ord: 2e6 RVA: 0xaebf0
+PyUnicodeUCS2_EncodeDecimal Ord: 2e7 RVA: 0xaf760
+PyUnicodeUCS2_EncodeLatin1 Ord: 2e8 RVA: 0xad8c0
+PyUnicodeUCS2_EncodeRawUnicodeEscape Ord: 2e9 RVA: 0xace10
+PyUnicodeUCS2_EncodeUTF16 Ord: 2ea RVA: 0xac0b0
+PyUnicodeUCS2_EncodeUTF32 Ord: 2eb RVA: 0xabb90
+PyUnicodeUCS2_EncodeUTF8 Ord: 2ec RVA: 0xab6a0
+PyUnicodeUCS2_EncodeUnicodeEscape Ord: 2ed RVA: 0xacae0
+PyUnicodeUCS2_Find Ord: 2ee RVA: 0xb5370
+PyUnicodeUCS2_Format Ord: 2ef RVA: 0xb6bf0
+PyUnicodeUCS2_FromEncodedObject Ord: 2f0 RVA: 0xb4ea0
+PyUnicodeUCS2_FromFormat Ord: 2f1 RVA: 0xb4c50
+PyUnicodeUCS2_FromFormatV Ord: 2f2 RVA: 0xb4290
+PyUnicodeUCS2_FromObject Ord: 2f3 RVA: 0xb5150
+PyUnicodeUCS2_FromOrdinal Ord: 2f4 RVA: 0xaa8a0
+PyUnicodeUCS2_FromString Ord: 2f5 RVA: 0xb4240
+PyUnicodeUCS2_FromStringAndSize Ord: 2f6 RVA: 0xb41a0
+PyUnicodeUCS2_FromUnicode Ord: 2f7 RVA: 0xaa6f0
+PyUnicodeUCS2_FromWideChar Ord: 2f8 RVA: 0xaa7b0
+PyUnicodeUCS2_GetDefaultEncoding Ord: 2f9 RVA: 0xaa920
+PyUnicodeUCS2_GetMax Ord: 2fa RVA: 0x5f290
+PyUnicodeUCS2_GetSize Ord: 2fb RVA: 0xaa900
+PyUnicodeUCS2_Join Ord: 2fc RVA: 0xb54b0
+PyUnicodeUCS2_Partition Ord: 2fd RVA: 0xb66d0
+PyUnicodeUCS2_RPartition Ord: 2fe RVA: 0xb6760
+PyUnicodeUCS2_RSplit Ord: 2ff RVA: 0xb6810
+PyUnicodeUCS2_Replace Ord: 300 RVA: 0xb6260
+PyUnicodeUCS2_Resize Ord: 301 RVA: 0xaa6d0
+PyUnicodeUCS2_RichCompare Ord: 302 RVA: 0xb5b40
+PyUnicodeUCS2_SetDefaultEncoding Ord: 303 RVA: 0xaa930
+PyUnicodeUCS2_Split Ord: 304 RVA: 0xb65b0
+PyUnicodeUCS2_Splitlines Ord: 305 RVA: 0xb5820
+PyUnicodeUCS2_Tailmatch Ord: 306 RVA: 0xb5420
+PyUnicodeUCS2_Translate Ord: 307 RVA: 0xb5190
+PyUnicodeUCS2_TranslateCharmap Ord: 308 RVA: 0xaf1d0
+PyUnicode_AsMBCSString Ord: 309 RVA: 0xaddb0
+PyUnicode_BuildEncodingMap Ord: 30a RVA: 0xae260
+PyUnicode_DecodeMBCS Ord: 30b RVA: 0xadca0
+PyUnicode_DecodeMBCSStateful Ord: 30c RVA: 0xadc30
+PyUnicode_DecodeUTF7 Ord: 30d RVA: 0xb3f80
+PyUnicode_DecodeUTF7Stateful Ord: 30e RVA: 0xaabb0
+PyUnicode_EncodeMBCS Ord: 30f RVA: 0xadd60
+PyUnicode_EncodeUTF7 Ord: 310 RVA: 0xab060
+PyUnicode_Type Ord: 311 RVA: 0x231b78
+PyWeakref_GetObject Ord: 312 RVA: 0xb9110
+PyWeakref_NewProxy Ord: 313 RVA: 0xb9000
+PyWeakref_NewRef Ord: 314 RVA: 0xb8f10
+PyWrapperDescr_Type Ord: 315 RVA: 0x21b408
+PyWrapper_New Ord: 316 RVA: 0x76fb0
+Py_AddPendingCall Ord: 317 RVA: 0xcac30
+Py_AtExit Ord: 318 RVA: 0xf1560
+Py_BuildValue Ord: 319 RVA: 0xe3010
+Py_BytesWarningFlag Ord: 31a RVA: 0x24aa6c
+Py_CompileString Ord: 31b RVA: 0xf22d0
+Py_CompileStringFlags Ord: 31c RVA: 0xf2130
+Py_DebugFlag Ord: 31d RVA: 0x24aa70
+Py_DecRef Ord: 31e RVA: 0x90370
+Py_DivisionWarningFlag Ord: 31f RVA: 0x24aa94
+Py_DontWriteBytecodeFlag Ord: 320 RVA: 0x24aa80
+Py_EndInterpreter Ord: 321 RVA: 0xf1900
+Py_Exit Ord: 322 RVA: 0xf1c20
+Py_FatalError Ord: 323 RVA: 0xf14c0
+Py_FdIsInteractive Ord: 324 RVA: 0xf1670
+Py_FileSystemDefaultEncoding Ord: 325 RVA: 0x236060
+Py_Finalize Ord: 326 RVA: 0xf1850
+Py_FindMethod Ord: 327 RVA: 0x8fdd0
+Py_FindMethodInChain Ord: 328 RVA: 0x8fc70
+Py_FlushLine Ord: 329 RVA: 0xcb5f0
+Py_FrozenFlag Ord: 32a RVA: 0x24aa78
+Py_GetBuildInfo Ord: 32b RVA: 0xf85f0
+Py_GetCompiler Ord: 32c RVA: 0xdbee0
+Py_GetCopyright Ord: 32d RVA: 0xdbef0
+Py_GetExecPrefix Ord: 32e RVA: 0xbfea0
+Py_GetPath Ord: 32f RVA: 0xbfe60
+Py_GetPlatform Ord: 330 RVA: 0xdc0e0
+Py_GetPrefix Ord: 331 RVA: 0xbfe80
+Py_GetProgramFullPath Ord: 332 RVA: 0xbfeb0
+Py_GetProgramName Ord: 333 RVA: 0xf09d0
+Py_GetPythonHome Ord: 334 RVA: 0xf09f0
+Py_GetRecursionLimit Ord: 335 RVA: 0xcad60
+Py_GetVersion Ord: 336 RVA: 0xdc0f0
+Py_IgnoreEnvironmentFlag Ord: 337 RVA: 0x24aa64
+Py_IncRef Ord: 338 RVA: 0xbd600
+Py_InitModule4 Ord: 339 RVA: 0xe23d0
+Py_Initialize Ord: 33a RVA: 0xf2d60
+Py_InitializeEx Ord: 33b RVA: 0xf27f0
+Py_InspectFlag Ord: 33c RVA: 0x24aa7c
+Py_InteractiveFlag Ord: 33d RVA: 0x24aa68
+Py_IsInitialized Ord: 33e RVA: 0xf0980
+Py_Main Ord: 33f RVA: 0x34c20
+Py_MakePendingCalls Ord: 340 RVA: 0xcacb0
+Py_NewInterpreter Ord: 341 RVA: 0xf2d70
+Py_NoSiteFlag Ord: 342 RVA: 0x24aa74
+Py_NoUserSiteDirectory Ord: 343 RVA: 0x249d78
+Py_OptimizeFlag Ord: 344 RVA: 0x249980
+Py_Py3kWarningFlag Ord: 345 RVA: 0x24aa90
+Py_ReprEnter Ord: 346 RVA: 0x91770
+Py_ReprLeave Ord: 347 RVA: 0x91810
+Py_SetProgramName Ord: 348 RVA: 0xf09b0
+Py_SetPythonHome Ord: 349 RVA: 0xf09e0
+Py_SetRecursionLimit Ord: 34a RVA: 0xcad70
+Py_SubversionRevision Ord: 34b RVA: 0xf6e70
+Py_SubversionShortBranch Ord: 34c RVA: 0xf6e80
+Py_SymtableString Ord: 34d RVA: 0xf21b0
+Py_TabcheckFlag Ord: 34e RVA: 0x24aa84
+Py_UnicodeFlag Ord: 34f RVA: 0x249d70
+Py_UseClassExceptionsFlag Ord: 350 RVA: 0x23e27c
+Py_VaBuildValue Ord: 351 RVA: 0xe3050
+Py_VerboseFlag Ord: 352 RVA: 0x24aa60
+_PyArg_NoKeywords Ord: 353 RVA: 0xd9d70
+_PyArg_ParseTupleAndKeywords_SizeT Ord: 354 RVA: 0xdbc90
+_PyArg_ParseTuple_SizeT Ord: 355 RVA: 0xdbe70
+_PyArg_Parse_SizeT Ord: 356 RVA: 0xdbe10
+_PyArg_VaParseTupleAndKeywords_SizeT Ord: 357 RVA: 0xdbd70
+_PyArg_VaParse_SizeT Ord: 358 RVA: 0xdbec0
+_PyBuiltin_Init Ord: 359 RVA: 0xc9ba0
+_PyBytes_FormatAdvanced Ord: 35a RVA: 0xd8990
+_PyCodec_Lookup Ord: 35b RVA: 0xd0b50
+_PyDict_Contains Ord: 35c RVA: 0x79840
+_PyDict_NewPresized Ord: 35d RVA: 0x79dc0
+_PyDict_Next Ord: 35e RVA: 0x77fa0
+_PyErr_BadInternalCall Ord: 35f RVA: 0xd7e30
+_PyEval_CallTracing Ord: 360 RVA: 0xcc4c0
+_PyEval_SliceIndex Ord: 361 RVA: 0xcbab0
+_PyExc_Fini Ord: 362 RVA: 0x7d650
+_PyExc_Init Ord: 363 RVA: 0x7c330
+_PyFloat_FormatAdvanced Ord: 364 RVA: 0xd8ba0
+_PyFloat_Init Ord: 365 RVA: 0x83140
+_PyFloat_Pack4 Ord: 366 RVA: 0x833e0
+_PyFloat_Pack8 Ord: 367 RVA: 0x83620
+_PyFloat_Unpack4 Ord: 368 RVA: 0x838a0
+_PyFloat_Unpack8 Ord: 369 RVA: 0x839c0
+_PyFrame_Init Ord: 36a RVA: 0x84510
+_PyImportHooks_Init Ord: 36b RVA: 0xdffa0
+_PyImport_AcquireLock Ord: 36c RVA: 0xdc290
+_PyImport_FindExtension Ord: 36d RVA: 0xde420
+_PyImport_FindModule Ord: 36e RVA: 0xdec80
+_PyImport_Fini Ord: 36f RVA: 0xdc250
+_PyImport_FixupExtension Ord: 370 RVA: 0xdc9a0
+_PyImport_Init Ord: 371 RVA: 0xdc120
+_PyImport_IsScript Ord: 372 RVA: 0xdd450
+_PyImport_ReInitLock Ord: 373 RVA: 0xdc360
+_PyImport_ReleaseLock Ord: 374 RVA: 0xdc310
+_PyInstance_Lookup Ord: 375 RVA: 0x6fae0
+_PyInt_Format Ord: 376 RVA: 0x871b0
+_PyInt_FormatAdvanced Ord: 377 RVA: 0xd8b80
+_PyInt_Init Ord: 378 RVA: 0x87370
+_PyList_Extend Ord: 379 RVA: 0x88d30
+_PyLong_AsByteArray Ord: 37a RVA: 0x8b530
+_PyLong_AsScaledDouble Ord: 37b RVA: 0x8b6f0
+_PyLong_Copy Ord: 37c RVA: 0x8ae30
+_PyLong_DigitValue Ord: 37d RVA: 0x222f80
+_PyLong_Format Ord: 37e RVA: 0x8bf70
+_PyLong_FormatAdvanced Ord: 37f RVA: 0xd8b40
+_PyLong_FromByteArray Ord: 380 RVA: 0x8b3d0
+_PyLong_New Ord: 381 RVA: 0x8ade0
+_PyLong_NumBits Ord: 382 RVA: 0x8b360
+_PyLong_Sign Ord: 383 RVA: 0x8b340
+_PyModule_Clear Ord: 384 RVA: 0x90090
+_PyNumber_ConvertIntegralToInt Ord: 385 RVA: 0x65e00
+_PyOS_ReadlineTState Ord: 386 RVA: 0x24aa88
+_PyObject_CallFunction_SizeT Ord: 387 RVA: 0x66a20
+_PyObject_CallMethod_SizeT Ord: 388 RVA: 0x66b20
+_PyObject_Dump Ord: 389 RVA: 0x91a30
+_PyObject_GC_Malloc Ord: 38a RVA: 0x30480
+_PyObject_GC_New Ord: 38b RVA: 0x30510
+_PyObject_GC_NewVar Ord: 38c RVA: 0x30530
+_PyObject_GC_Resize Ord: 38d RVA: 0x30570
+_PyObject_GetDictPtr Ord: 38e RVA: 0x90c40
+_PyObject_LengthHint Ord: 38f RVA: 0x67410
+_PyObject_New Ord: 390 RVA: 0x903e0
+_PyObject_NewVar Ord: 391 RVA: 0x90410
+_PyObject_RealIsInstance Ord: 392 RVA: 0x67350
+_PyObject_RealIsSubclass Ord: 393 RVA: 0x67370
+_PyObject_Str Ord: 394 RVA: 0x90530
+_PyParser_Grammar Ord: 395 RVA: 0x23ca50
+_PyParser_TokenNames Ord: 396 RVA: 0x232300
+_PySequence_IterSearch Ord: 397 RVA: 0x684f0
+_PySet_Next Ord: 398 RVA: 0x95ff0
+_PySet_NextEntry Ord: 399 RVA: 0x96080
+_PySet_Update Ord: 39a RVA: 0x96160
+_PySlice_FromIndices Ord: 39b RVA: 0x96210
+_PyString_Eq Ord: 39c RVA: 0x975e0
+_PyString_FormatLong Ord: 39d RVA: 0x9d090
+_PyString_InsertThousandsGrouping Ord: 39e RVA: 0x96d20
+_PyString_Join Ord: 39f RVA: 0x9aac0
+_PyString_Resize Ord: 3a0 RVA: 0x98aa0
+_PySys_Init Ord: 3a1 RVA: 0xf6fa0
+_PyThreadState_Current Ord: 3a2 RVA: 0x249acc
+_PyThreadState_GetFrame Ord: 3a3 RVA: 0x249ad0
+_PyThread_CurrentFrames Ord: 3a4 RVA: 0xe4b00
+_PyTime_DoubleToTimet Ord: 3a5 RVA: 0x52b30
+_PyTrash_delete_later Ord: 3a6 RVA: 0x245724
+_PyTrash_delete_nesting Ord: 3a7 RVA: 0x245720
+_PyTrash_deposit_object Ord: 3a8 RVA: 0x91870
+_PyTrash_destroy_chain Ord: 3a9 RVA: 0x91890
+_PyTuple_Resize Ord: 3aa RVA: 0xa0560
+_PyType_Lookup Ord: 3ab RVA: 0xa1e10
+_PyUnicodeUCS2_AsDefaultEncodedString Ord: 3ac RVA: 0xb3f50
+_PyUnicodeUCS2_IsAlpha Ord: 3ad RVA: 0xaa370
+_PyUnicodeUCS2_IsDecimalDigit Ord: 3ae RVA: 0xa9990
+_PyUnicodeUCS2_IsDigit Ord: 3af RVA: 0xa99d0
+_PyUnicodeUCS2_IsLinebreak Ord: 3b0 RVA: 0xa98d0
+_PyUnicodeUCS2_IsLowercase Ord: 3b1 RVA: 0xaa2b0
+_PyUnicodeUCS2_IsNumeric Ord: 3b2 RVA: 0xaa1f0
+_PyUnicodeUCS2_IsTitlecase Ord: 3b3 RVA: 0xa9950
+_PyUnicodeUCS2_IsUppercase Ord: 3b4 RVA: 0xaa2d0
+_PyUnicodeUCS2_IsWhitespace Ord: 3b5 RVA: 0xaa220
+_PyUnicodeUCS2_ToDecimalDigit Ord: 3b6 RVA: 0xa9970
+_PyUnicodeUCS2_ToDigit Ord: 3b7 RVA: 0xa99b0
+_PyUnicodeUCS2_ToLowercase Ord: 3b8 RVA: 0xaa330
+_PyUnicodeUCS2_ToNumeric Ord: 3b9 RVA: 0xa99f0
+_PyUnicodeUCS2_ToTitlecase Ord: 3ba RVA: 0xa9910
+_PyUnicodeUCS2_ToUppercase Ord: 3bb RVA: 0xaa2f0
+_PyUnicode_FormatAdvanced Ord: 3bc RVA: 0xd9070
+_PyUnicode_XStrip Ord: 3bd RVA: 0xb1fc0
+_PyWarnings_Init Ord: 3be RVA: 0xc1270
+_PyWeakref_CallableProxyType Ord: 3bf RVA: 0x231ea0
+_PyWeakref_ClearRef Ord: 3c0 RVA: 0xb79d0
+_PyWeakref_GetWeakrefCount Ord: 3c1 RVA: 0xb78f0
+_PyWeakref_ProxyType Ord: 3c2 RVA: 0x231dd8
+_PyWeakref_RefType Ord: 3c3 RVA: 0x231c40
+_Py_BuildValue_SizeT Ord: 3c4 RVA: 0xe3030
+_Py_CheckInterval Ord: 3c5 RVA: 0x239098
+_Py_CheckRecursionLimit Ord: 3c6 RVA: 0x239094
+_Py_CheckRecursiveCall Ord: 3c7 RVA: 0xcad80
+_Py_DisplaySourceLine Ord: 3c8 RVA: 0xf8180
+_Py_EllipsisObject Ord: 3c9 RVA: 0x224ce4
+_Py_HashDouble Ord: 3ca RVA: 0x92130
+_Py_HashPointer Ord: 3cb RVA: 0x90950
+_Py_Mangle Ord: 3cc RVA: 0xd1120
+_Py_NoneStruct Ord: 3cd RVA: 0x223abc
+_Py_NotImplementedStruct Ord: 3ce RVA: 0x223b8c
+_Py_PackageContext Ord: 3cf RVA: 0x249ab8
+_Py_QnewFlag Ord: 3d0 RVA: 0x249d74
+_Py_ReleaseInternedStrings Ord: 3d1 RVA: 0x98f30
+_Py_SwappedOp Ord: 3d2 RVA: 0x2239c8
+_Py_Ticker Ord: 3d3 RVA: 0x23909c
+_Py_TrueStruct Ord: 3d4 RVA: 0x2180b0
+_Py_VaBuildValue_SizeT Ord: 3d5 RVA: 0xe3070
+_Py_ZeroStruct Ord: 3d6 RVA: 0x2180a4
+_Py_ascii_whitespace Ord: 3d7 RVA: 0x1d79f8
+_Py_c_abs Ord: 3d8 RVA: 0x74620
+_Py_c_diff Ord: 3d9 RVA: 0x74170
+_Py_c_neg Ord: 3da RVA: 0x74190
+_Py_c_pow Ord: 3db RVA: 0x742a0
+_Py_c_prod Ord: 3dc RVA: 0x741b0
+_Py_c_quot Ord: 3dd RVA: 0x741e0
+_Py_c_sum Ord: 3de RVA: 0x74150
+_Py_svnversion Ord: 3df RVA: 0xf8640
+Imports: 
+DLL Name: KERNEL32.dll
+DLL Functions: 
+     SetEnvironmentVariableA RVA: 0x11d044
+     GetCurrentDirectoryA RVA: 0x11d048
+     SetCurrentDirectoryA RVA: 0x11d04c
+     SetEnvironmentVariableW RVA: 0x11d050
+     SetLastError RVA: 0x11d054
+     GetCurrentDirectoryW RVA: 0x11d058
+     SetCurrentDirectoryW RVA: 0x11d05c
+     GetProcAddress RVA: 0x11d060
+     GetModuleHandleA RVA: 0x11d064
+     FindClose RVA: 0x11d068
+     FindFirstFileA RVA: 0x11d06c
+     FindFirstFileW RVA: 0x11d070
+     GetFileAttributesA RVA: 0x11d074
+     GetFileAttributesW RVA: 0x11d078
+     GetFileInformationByHandle RVA: 0x11d07c
+     GetFileType RVA: 0x11d080
+     SetFileAttributesA RVA: 0x11d084
+     SetFileAttributesW RVA: 0x11d088
+     FindNextFileA RVA: 0x11d08c
+     FindNextFileW RVA: 0x11d090
+     GetFullPathNameA RVA: 0x11d094
+     GetFullPathNameW RVA: 0x11d098
+     CreateDirectoryA RVA: 0x11d09c
+     CreateDirectoryW RVA: 0x11d0a0
+     MoveFileA RVA: 0x11d0a4
+     MoveFileW RVA: 0x11d0a8
+     RemoveDirectoryA RVA: 0x11d0ac
+     RemoveDirectoryW RVA: 0x11d0b0
+     DeleteFileA RVA: 0x11d0b4
+     DeleteFileW RVA: 0x11d0b8
+     SetFileTime RVA: 0x11d0bc
+     SystemTimeToFileTime RVA: 0x11d0c0
+     GetSystemTime RVA: 0x11d0c4
+     CreateFileA RVA: 0x11d0c8
+     CreateFileW RVA: 0x11d0cc
+     CreateProcessA RVA: 0x11d0d0
+     GetModuleFileNameA RVA: 0x11d0d4
+     GetCurrentProcess RVA: 0x11d0d8
+     GetExitCodeProcess RVA: 0x11d0dc
+     WaitForSingleObject RVA: 0x11d0e0
+     GetProcessTimes RVA: 0x11d0e4
+     CreatePipe RVA: 0x11d0e8
+     SetEvent RVA: 0x11d0ec
+     SetConsoleCtrlHandler RVA: 0x11d0f0
+     CreateEventA RVA: 0x11d0f4
+     Sleep RVA: 0x11d0f8
+     ResetEvent RVA: 0x11d0fc
+     IsDBCSLeadByte RVA: 0x11d100
+     MultiByteToWideChar RVA: 0x11d104
+     WideCharToMultiByte RVA: 0x11d108
+     GetStdHandle RVA: 0x11d10c
+     TerminateProcess RVA: 0x11d110
+     ExpandEnvironmentStringsW RVA: 0x11d114
+     GetModuleHandleW RVA: 0x11d118
+     OutputDebugStringA RVA: 0x11d11c
+     FreeLibrary RVA: 0x11d120
+     FormatMessageA RVA: 0x11d124
+     LoadLibraryExA RVA: 0x11d128
+     SetErrorMode RVA: 0x11d12c
+     LocalFree RVA: 0x11d130
+     OutputDebugStringW RVA: 0x11d134
+     GetConsoleOutputCP RVA: 0x11d138
+     GetConsoleCP RVA: 0x11d13c
+     GetVersionExA RVA: 0x11d140
+     GetCurrentThreadId RVA: 0x11d144
+     InterlockedIncrement RVA: 0x11d148
+     InterlockedCompareExchange RVA: 0x11d14c
+     InterlockedDecrement RVA: 0x11d150
+     ReleaseSemaphore RVA: 0x11d154
+     CreateSemaphoreA RVA: 0x11d158
+     HeapSize RVA: 0x11d15c
+     GetTickCount RVA: 0x11d160
+     GetEnvironmentStringsW RVA: 0x11d164
+     FreeEnvironmentStringsW RVA: 0x11d168
+     DuplicateHandle RVA: 0x11d16c
+     FlushViewOfFile RVA: 0x11d170
+     SetEndOfFile RVA: 0x11d174
+     SetFilePointer RVA: 0x11d178
+     CreateFileMappingA RVA: 0x11d17c
+     MapViewOfFile RVA: 0x11d180
+     GetFileSize RVA: 0x11d184
+     GetLastError RVA: 0x11d188
+     UnmapViewOfFile RVA: 0x11d18c
+     CloseHandle RVA: 0x11d190
+     GetSystemInfo RVA: 0x11d194
+     GetACP RVA: 0x11d198
+     GetLocaleInfoA RVA: 0x11d19c
+     QueryPerformanceFrequency RVA: 0x11d1a0
+     QueryPerformanceCounter RVA: 0x11d1a4
+     GetVersion RVA: 0x11d1a8
+     GetEnvironmentVariableA RVA: 0x11d1ac
+     GetEnvironmentStrings RVA: 0x11d1b0
+     FreeEnvironmentStringsA RVA: 0x11d1b4
+     GetCurrentProcessId RVA: 0x11d1b8
+     FileTimeToSystemTime RVA: 0x11d1bc
+     FileTimeToLocalFileTime RVA: 0x11d1c0
+     PeekNamedPipe RVA: 0x11d1c4
+     SetStdHandle RVA: 0x11d1c8
+     EnterCriticalSection RVA: 0x11d1cc
+     LeaveCriticalSection RVA: 0x11d1d0
+     HeapFree RVA: 0x11d1d4
+     HeapAlloc RVA: 0x11d1d8
+     GetSystemTimeAsFileTime RVA: 0x11d1dc
+     HeapReAlloc RVA: 0x11d1e0
+     GetDriveTypeA RVA: 0x11d1e4
+     ExitProcess RVA: 0x11d1e8
+     FlushFileBuffers RVA: 0x11d1ec
+     UnhandledExceptionFilter RVA: 0x11d1f0
+     SetUnhandledExceptionFilter RVA: 0x11d1f4
+     GetTimeZoneInformation RVA: 0x11d1f8
+     GetTimeFormatA RVA: 0x11d1fc
+     GetDateFormatA RVA: 0x11d200
+     IsDebuggerPresent RVA: 0x11d204
+     HeapCompact RVA: 0x11d208
+     LockFile RVA: 0x11d20c
+     UnlockFile RVA: 0x11d210
+     ReadConsoleInputA RVA: 0x11d214
+     SetConsoleMode RVA: 0x11d218
+     GetConsoleMode RVA: 0x11d21c
+     PeekConsoleInputA RVA: 0x11d220
+     GetNumberOfConsoleInputEvents RVA: 0x11d224
+     ReadConsoleInputW RVA: 0x11d228
+     WriteConsoleA RVA: 0x11d22c
+     WriteConsoleW RVA: 0x11d230
+     VirtualProtect RVA: 0x11d234
+     VirtualAlloc RVA: 0x11d238
+     VirtualQuery RVA: 0x11d23c
+     ExitThread RVA: 0x11d240
+     ResumeThread RVA: 0x11d244
+     CreateThread RVA: 0x11d248
+     GetCommandLineA RVA: 0x11d24c
+     SetHandleCount RVA: 0x11d250
+     GetStartupInfoA RVA: 0x11d254
+     DeleteCriticalSection RVA: 0x11d258
+     TlsGetValue RVA: 0x11d25c
+     TlsAlloc RVA: 0x11d260
+     TlsSetValue RVA: 0x11d264
+     TlsFree RVA: 0x11d268
+     InitializeCriticalSectionAndSpinCount RVA: 0x11d26c
+     WriteFile RVA: 0x11d270
+     GetProcessHeap RVA: 0x11d274
+     ReadFile RVA: 0x11d278
+     HeapCreate RVA: 0x11d27c
+     HeapDestroy RVA: 0x11d280
+     VirtualFree RVA: 0x11d284
+     RtlUnwind RVA: 0x11d288
+     GetCPInfo RVA: 0x11d28c
+     GetOEMCP RVA: 0x11d290
+     IsValidCodePage RVA: 0x11d294
+     GetUserDefaultLCID RVA: 0x11d298
+     EnumSystemLocalesA RVA: 0x11d29c
+     IsValidLocale RVA: 0x11d2a0
+     GetStringTypeA RVA: 0x11d2a4
+     GetStringTypeW RVA: 0x11d2a8
+     CompareStringW RVA: 0x11d2ac
+     CompareStringA RVA: 0x11d2b0
+     LCMapStringA RVA: 0x11d2b4
+     LCMapStringW RVA: 0x11d2b8
+     RaiseException RVA: 0x11d2bc
+     LoadLibraryA RVA: 0x11d2c0
+     GetLocaleInfoW RVA: 0x11d2c4
+
+DLL Name: USER32.dll
+DLL Functions: 
+     wsprintfA RVA: 0x11d2d8
+     CharPrevA RVA: 0x11d2dc
+     LoadStringA RVA: 0x11d2e0
+
+DLL Name: ADVAPI32.dll
+DLL Functions: 
+     RegCreateKeyA RVA: 0x11d000
+     RegSetValueExA RVA: 0x11d004
+     RegSetValueA RVA: 0x11d008
+     RegSaveKeyA RVA: 0x11d00c
+     RegQueryValueExA RVA: 0x11d010
+     RegQueryValueA RVA: 0x11d014
+     RegOpenKeyExA RVA: 0x11d018
+     RegLoadKeyA RVA: 0x11d01c
+     RegFlushKey RVA: 0x11d020
+     RegQueryInfoKeyA RVA: 0x11d024
+     RegEnumValueA RVA: 0x11d028
+     RegEnumKeyExA RVA: 0x11d02c
+     RegDeleteValueA RVA: 0x11d030
+     RegDeleteKeyA RVA: 0x11d034
+     RegConnectRegistryA RVA: 0x11d038
+     RegCloseKey RVA: 0x11d03c
+
+DLL Name: SHELL32.dll
+DLL Functions: 
+     ShellExecuteA RVA: 0x11d2cc
+     ShellExecuteW RVA: 0x11d2d0
+
+Resources: 
+Resource ID: 0x3f, type: STRING, file offset: 0x241c50, size: 0x26, language: English
+Resource ID: 0x1, type: VERSION, file offset: 0x2418a0, size: 0x3ac, language: English

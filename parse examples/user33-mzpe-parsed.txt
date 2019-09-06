@@ -1,0 +1,1421 @@
+MZPE Information:
+
+Information: 
+Machine : AMD64
+Type : DLL
+Created : Thu Jul  4 09:37:12 2019
+Architecture : 64 bit
+
+Exports: 
+ActivateKeyboardLayout Ord: 1504 RVA: 0x2bbf0
+AddClipboardFormatListener Ord: 5e1 RVA: 0x2c2c0
+AddVisualIdentifier Ord: 5e2 RVA: 0x32a10
+AdjustWindowRect Ord: 5e3 RVA: 0x7ca70
+AdjustWindowRectEx Ord: 5e4 RVA: 0x19620
+AdjustWindowRectExForDpi Ord: 5e5 RVA: 0xb840
+AlignRects Ord: 5e6 RVA: 0x83340
+AllowForegroundActivation Ord: 5e7 RVA: 0x7cae0
+AllowSetForegroundWindow Ord: 5e8 RVA: 0x2ae80
+AnimateWindow Ord: 5e9 RVA: 0x779e0
+AnyPopup Ord: 5ea RVA: 0x78690
+AppendMenuA Ord: 5eb RVA: 0x80d40
+AppendMenuW Ord: 5ec RVA: 0x21dd0
+AreDpiAwarenessContextsEqual Ord: 5ed RVA: 0x19a60
+ArrangeIconicWindows Ord: 5ee RVA: 0x7cb00
+AttachThreadInput Ord: 5ef RVA: 0x32a20
+BeginDeferWindowPos Ord: 5f0 RVA: 0x29980
+BeginPaint Ord: 5f1 RVA: 0x32a40
+BlockInput Ord: 5f2 RVA: 0x32a50
+BringWindowToTop Ord: 5f3 RVA: 0x30200
+BroadcastSystemMessage Ord: 5f4 RVA: 0x80d90
+BroadcastSystemMessageA Ord: 5f5 RVA: 0x80d90
+BroadcastSystemMessageExA Ord: 5f6 RVA: 0x80dc0
+BroadcastSystemMessageExW Ord: 5f7 RVA: 0x7def0
+BroadcastSystemMessageW Ord: 5f8 RVA: 0x1ff60
+BuildReasonArray Ord: 5f9 RVA: 0x31b30
+CalcMenuBar Ord: 5fa RVA: 0x32a70
+CalculatePopupWindowPosition Ord: 5fb RVA: 0x32a80
+CallMsgFilter Ord: 5fc RVA: 0x798d0
+CallMsgFilterA Ord: 5fd RVA: 0x798d0
+CallMsgFilterW Ord: 5fe RVA: 0x7f4d0
+CallNextHookEx Ord: 5ff RVA: 0x19690
+CallWindowProcA Ord: 600 RVA: 0x4d030
+CallWindowProcW Ord: 601 RVA: 0x16460
+CancelShutdown Ord: 602 RVA: 0x534c0
+CascadeChildWindows Ord: 603 RVA: 0x7cb20
+CascadeWindows Ord: 604 RVA: 0x6e8d0
+ChangeClipboardChain Ord: 605 RVA: 0x7acd0
+ChangeDisplaySettingsA Ord: 606 RVA: 0x799e0
+ChangeDisplaySettingsExA Ord: 607 RVA: 0x30230
+ChangeDisplaySettingsExW Ord: 608 RVA: 0x26be0
+ChangeDisplaySettingsW Ord: 609 RVA: 0x7f580
+ChangeMenuA Ord: 60a RVA: 0x6ebb0
+ChangeMenuW Ord: 60b RVA: 0x6ec50
+ChangeWindowMessageFilter Ord: 60c RVA: 0x2a960
+ChangeWindowMessageFilterEx Ord: 60d RVA: 0x32aa0
+CharLowerA Ord: 613 RVA: 0x2c140
+CharLowerBuffA Ord: 614 RVA: 0x7acf0
+CharLowerBuffW Ord: 615 RVA: 0x31650
+CharLowerW Ord: 616 RVA: 0x30dc0
+CharNextA Ord: 617 RVA: 0x2a900
+CharNextExA Ord: 618 RVA: 0x7ad00
+CharNextW Ord: 619 RVA: 0x2b090
+CharPrevA Ord: 61a RVA: 0x1e70
+CharPrevExA Ord: 61b RVA: 0x7ad10
+CharPrevW Ord: 61c RVA: 0x7ad20
+CharToOemA Ord: 61d RVA: 0x289b0
+CharToOemBuffA Ord: 61e RVA: 0x72710
+CharToOemBuffW Ord: 61f RVA: 0x72760
+CharToOemW Ord: 620 RVA: 0x727c0
+CharUpperA Ord: 621 RVA: 0x29850
+CharUpperBuffA Ord: 622 RVA: 0x7ad30
+CharUpperBuffW Ord: 623 RVA: 0x1170
+CharUpperW Ord: 624 RVA: 0x26ed0
+CheckBannedOneCoreTransformApi Ord: 625 RVA: 0x2c310
+CheckDBCSEnabledExt Ord: 626 RVA: 0x23ec0
+CheckDlgButton Ord: 627 RVA: 0x1b40
+CheckMenuItem Ord: 628 RVA: 0x21c30
+CheckMenuRadioItem Ord: 629 RVA: 0x15c0
+CheckProcessForClipboardAccess Ord: 62a RVA: 0x32ab0
+CheckProcessSession Ord: 62b RVA: 0x32ac0
+CheckRadioButton Ord: 62c RVA: 0x1180
+CheckWindowThreadDesktop Ord: 62d RVA: 0x32ad0
+ChildWindowFromPoint Ord: 62e RVA: 0x7cb50
+ChildWindowFromPointEx Ord: 62f RVA: 0x32ae0
+CliImmSetHotKey Ord: 630 RVA: 0x49060
+ClientThreadSetup Ord: 631 RVA: 0x1f580
+ClientToScreen Ord: 632 RVA: 0x17af0
+ClipCursor Ord: 633 RVA: 0x32b00
+CloseClipboard Ord: 634 RVA: 0x2bd90
+CloseDesktop Ord: 635 RVA: 0x32b10
+CloseGestureInfoHandle Ord: 636 RVA: 0x4c2a0
+CloseTouchInputHandle Ord: 637 RVA: 0x4e570
+CloseWindow Ord: 638 RVA: 0x7cbf0
+CloseWindowStation Ord: 639 RVA: 0x32b20
+ConsoleControl Ord: 63a RVA: 0x26b90
+ControlMagnification Ord: 63b RVA: 0x32b80
+CopyAcceleratorTableA Ord: 63c RVA: 0x4d9a0
+CopyAcceleratorTableW Ord: 63d RVA: 0x32b90
+CopyIcon Ord: 63e RVA: 0x26800
+CopyImage Ord: 63f RVA: 0x98e0
+CopyRect Ord: 640 RVA: 0x24ba0
+CountClipboardFormats Ord: 641 RVA: 0x2b070
+CreateAcceleratorTableA Ord: 642 RVA: 0x4da20
+CreateAcceleratorTableW Ord: 643 RVA: 0x32ba0
+CreateCaret Ord: 644 RVA: 0x2b4b0
+CreateCursor Ord: 645 RVA: 0x305e0
+CreateDCompositionHwndTarget Ord: 646 RVA: 0x32bc0
+CreateDesktopA Ord: 647 RVA: 0x7cc30
+CreateDesktopExA Ord: 648 RVA: 0x7cc70
+CreateDesktopExW Ord: 649 RVA: 0x2b350
+CreateDesktopW Ord: 64a RVA: 0x2b310
+CreateDialogIndirectParamA Ord: 64b RVA: 0x4daa0
+CreateDialogIndirectParamAorW Ord: 64c RVA: 0x29d0
+CreateDialogIndirectParamW Ord: 64d RVA: 0x1f40
+CreateDialogParamA Ord: 64e RVA: 0x4dad0
+CreateDialogParamW Ord: 64f RVA: 0x23e0
+CreateIcon Ord: 650 RVA: 0x4dbc0
+CreateIconFromResource Ord: 651 RVA: 0x4dc90
+CreateIconFromResourceEx Ord: 652 RVA: 0x89c0
+CreateIconIndirect Ord: 653 RVA: 0xd2f0
+CreateMDIWindowA Ord: 654 RVA: 0x6e900
+CreateMDIWindowW Ord: 655 RVA: 0x6e980
+CreateMenu Ord: 656 RVA: 0x310c0
+CreatePopupMenu Ord: 657 RVA: 0x2bcd0
+CreateSyntheticPointerDevice Ord: 658 RVA: 0x739d0
+CreateSystemThreads Ord: 659 RVA: 0x7df90
+CreateWindowExA Ord: 65a RVA: 0x2b4d0
+CreateWindowExW Ord: 65b RVA: 0x79b0
+CreateWindowInBand Ord: 65c RVA: 0x5ce0
+CreateWindowInBandEx Ord: 65d RVA: 0x5fb0
+CreateWindowIndirect Ord: 65e RVA: 0x786e0
+CreateWindowStationA Ord: 65f RVA: 0x7cde0
+CreateWindowStationW Ord: 660 RVA: 0x1ef80
+CsrBroadcastSystemMessageExW Ord: 661 RVA: 0x1fe90
+CtxInitUser32 Ord: 662 RVA: 0x1ef30
+DdeAbandonTransaction Ord: 663 RVA: 0x78c20
+DdeAccessData Ord: 664 RVA: 0x66950
+DdeAddData Ord: 665 RVA: 0x66a00
+DdeClientTransaction Ord: 666 RVA: 0x78cf0
+DdeCmpStringHandles Ord: 667 RVA: 0x67480
+DdeConnect Ord: 668 RVA: 0x52ae0
+DdeConnectList Ord: 669 RVA: 0x52be0
+DdeCreateDataHandle Ord: 66a RVA: 0x66b70
+DdeCreateStringHandleA Ord: 66b RVA: 0x674a0
+DdeCreateStringHandleW Ord: 66c RVA: 0x2a610
+DdeDisconnect Ord: 66d RVA: 0x52eb0
+DdeDisconnectList Ord: 66e RVA: 0x52f50
+DdeEnableCallback Ord: 66f RVA: 0x4ad60
+DdeFreeDataHandle Ord: 670 RVA: 0x66cc0
+DdeFreeStringHandle Ord: 671 RVA: 0x674c0
+DdeGetData Ord: 672 RVA: 0x66d30
+DdeGetLastError Ord: 673 RVA: 0x54310
+DdeGetQualityOfService Ord: 674 RVA: 0x2c340
+DdeImpersonateClient Ord: 675 RVA: 0x54360
+DdeInitializeA Ord: 676 RVA: 0x543f0
+DdeInitializeW Ord: 677 RVA: 0x1e920
+DdeKeepStringHandle Ord: 678 RVA: 0x67590
+DdeNameService Ord: 679 RVA: 0x2a310
+DdePostAdvise Ord: 67a RVA: 0x79310
+DdeQueryConvInfo Ord: 67b RVA: 0x795c0
+DdeQueryNextServer Ord: 67c RVA: 0x53060
+DdeQueryStringA Ord: 67d RVA: 0x67650
+DdeQueryStringW Ord: 67e RVA: 0x67670
+DdeReconnect Ord: 67f RVA: 0x531b0
+DdeSetQualityOfService Ord: 680 RVA: 0x2c340
+DdeSetUserHandle Ord: 681 RVA: 0x797e0
+DdeUnaccessData Ord: 682 RVA: 0x66e80
+DdeUninitialize Ord: 683 RVA: 0x54410
+DefDlgProcA Ord: 684 RVA: 0x99d22
+DefDlgProcW Ord: 685 RVA: 0x99d49
+DefFrameProcA Ord: 686 RVA: 0x6ea00
+DefFrameProcW Ord: 687 RVA: 0x2f010
+DefMDIChildProcA Ord: 688 RVA: 0x6ea30
+DefMDIChildProcW Ord: 689 RVA: 0x2d580
+DefRawInputProc Ord: 68a RVA: 0x4d060
+DefWindowProcA Ord: 68b RVA: 0x99dc1
+DefWindowProcW Ord: 68c RVA: 0x99deb
+DeferWindowPos Ord: 68d RVA: 0x27e70
+DeferWindowPosAndBand Ord: 68e RVA: 0x7ce50
+DelegateInput Ord: 9c7 RVA: 0x32c00
+DeleteMenu Ord: 68f RVA: 0x32c10
+DeregisterShellHookWindow Ord: 690 RVA: 0x2c150
+DestroyAcceleratorTable Ord: 691 RVA: 0x27d30
+DestroyCaret Ord: 692 RVA: 0x2bc00
+DestroyCursor Ord: 693 RVA: 0x287a0
+DestroyDCompositionHwndTarget Ord: 694 RVA: 0x32c40
+DestroyIcon Ord: 695 RVA: 0x287a0
+DestroyMenu Ord: 696 RVA: 0x32c50
+DestroyReasons Ord: 697 RVA: 0x31ab0
+DestroySyntheticPointerDevice Ord: 698 RVA: 0x32c60
+DestroyWindow Ord: 699 RVA: 0x32c70
+DialogBoxIndirectParamA Ord: 69a RVA: 0x4dcc0
+DialogBoxIndirectParamAorW Ord: 69b RVA: 0x2c580
+DialogBoxIndirectParamW Ord: 69c RVA: 0x2c550
+DialogBoxParamA Ord: 69d RVA: 0x4dcf0
+DialogBoxParamW Ord: 69e RVA: 0x2c4c0
+DisableProcessWindowsGhosting Ord: 69f RVA: 0x2bfe0
+DispatchMessageA Ord: 6a0 RVA: 0x2adf0
+DispatchMessageW Ord: 6a1 RVA: 0x16020
+DisplayConfigGetDeviceInfo Ord: 6a2 RVA: 0x292a0
+DisplayConfigSetDeviceInfo Ord: 6a3 RVA: 0x82a20
+DisplayExitWindowsWarnings Ord: 6a4 RVA: 0x53510
+DlgDirListA Ord: 6a5 RVA: 0x6c3c0
+DlgDirListComboBoxA Ord: 6a6 RVA: 0x51120
+DlgDirListComboBoxW Ord: 6a7 RVA: 0x51210
+DlgDirListW Ord: 6a8 RVA: 0x6c4b0
+DlgDirSelectComboBoxExA Ord: 6a9 RVA: 0x51270
+DlgDirSelectComboBoxExW Ord: 6aa RVA: 0x51310
+DlgDirSelectExA Ord: 6ab RVA: 0x6c510
+DlgDirSelectExW Ord: 6ac RVA: 0x6c5c0
+DoSoundConnect Ord: 6ad RVA: 0x32c90
+DoSoundDisconnect Ord: 6ae RVA: 0x32ca0
+DragDetect Ord: 6af RVA: 0x32cc0
+DragObject Ord: 6b0 RVA: 0x32cd0
+DrawAnimatedRects Ord: 6b1 RVA: 0x32ce0
+DrawCaption Ord: 6b2 RVA: 0x7ff70
+DrawCaptionTempA Ord: 6b3 RVA: 0x79a10
+DrawCaptionTempW Ord: 6b4 RVA: 0x7f5b0
+DrawEdge Ord: 6b5 RVA: 0x23fd0
+DrawFocusRect Ord: 6b6 RVA: 0x2fba0
+DrawFrame Ord: 6b7 RVA: 0x84070
+DrawFrameControl Ord: 6b8 RVA: 0x841a0
+DrawIcon Ord: 6b9 RVA: 0x7ceb0
+DrawIconEx Ord: 6ba RVA: 0x26310
+DrawMenuBar Ord: 6bb RVA: 0x31550
+DrawMenuBarTemp Ord: 6bc RVA: 0x6ecf0
+DrawStateA Ord: 6bd RVA: 0x6f470
+DrawStateW Ord: 6be RVA: 0x28190
+DrawTextA Ord: 6bf RVA: 0x53980
+DrawTextExA Ord: 6c0 RVA: 0x53a00
+DrawTextExW Ord: 6c1 RVA: 0x209c0
+DrawTextW Ord: 6c2 RVA: 0x209f0
+DwmGetDxRgn Ord: 611 RVA: 0x2c320
+DwmGetDxSharedSurface Ord: 6c3 RVA: 0x2cdc0
+DwmGetRemoteSessionOcclusionEvent Ord: 6c4 RVA: 0x32cf0
+DwmGetRemoteSessionOcclusionState Ord: 6c5 RVA: 0x32d00
+DwmKernelShutdown Ord: 6c6 RVA: 0x32d10
+DwmKernelStartup Ord: 6c7 RVA: 0x32d20
+DwmLockScreenUpdates Ord: 6c8 RVA: 0x2c1f0
+DwmValidateWindow Ord: 6c9 RVA: 0x32d30
+EditWndProc Ord: 6ca RVA: 0x5ca50
+EmptyClipboard Ord: 6cb RVA: 0x31630
+EnableMenuItem Ord: 6cc RVA: 0x21ba0
+EnableMouseInPointer Ord: 6cd RVA: 0x32d60
+EnableNonClientDpiScaling Ord: 6ce RVA: 0x32d80
+EnableOneCoreTransformMode Ord: 6cf RVA: 0x32d90
+EnableScrollBar Ord: 6d0 RVA: 0x18f20
+EnableSessionForMMCSS Ord: 6d1 RVA: 0x31210
+EnableWindow Ord: 6d2 RVA: 0x2a980
+EndDeferWindowPos Ord: 6d3 RVA: 0x29db0
+EndDeferWindowPosEx Ord: 6d4 RVA: 0x32e00
+EndDialog Ord: 6d5 RVA: 0x30e20
+EndMenu Ord: 6d6 RVA: 0x32e10
+EndPaint Ord: 6d7 RVA: 0x32e20
+EndTask Ord: 6d8 RVA: 0x53790
+EnterReaderModeHelper Ord: 6d9 RVA: 0x73490
+EnumChildWindows Ord: 6da RVA: 0x16d00
+EnumClipboardFormats Ord: 6db RVA: 0x31180
+EnumDesktopWindows Ord: 6dc RVA: 0x1ae50
+EnumDesktopsA Ord: 6dd RVA: 0x1f90
+EnumDesktopsW Ord: 6de RVA: 0x3070
+EnumDisplayDevicesA Ord: 6df RVA: 0x2d000
+EnumDisplayDevicesW Ord: 6e0 RVA: 0x26d80
+EnumDisplayMonitors Ord: 6e1 RVA: 0x32e30
+EnumDisplaySettingsA Ord: 6e2 RVA: 0x2d190
+EnumDisplaySettingsExA Ord: 6e3 RVA: 0x2d1b0
+EnumDisplaySettingsExW Ord: 6e4 RVA: 0x1d830
+EnumDisplaySettingsW Ord: 6e5 RVA: 0x1d810
+EnumPropsA Ord: 6e6 RVA: 0x4b8f0
+EnumPropsExA Ord: 6e7 RVA: 0x4b910
+EnumPropsExW Ord: 6e8 RVA: 0x27490
+EnumPropsW Ord: 6e9 RVA: 0x4b930
+EnumThreadWindows Ord: 6ea RVA: 0x1abb0
+EnumWindowStationsA Ord: 6eb RVA: 0x1f70
+EnumWindowStationsW Ord: 6ec RVA: 0x3050
+EnumWindows Ord: 6ed RVA: 0x1a460
+EqualRect Ord: 6ee RVA: 0x24330
+EvaluateProximityToPolygon Ord: 6ef RVA: 0x75f70
+EvaluateProximityToRect Ord: 6f0 RVA: 0x764a0
+ExcludeUpdateRgn Ord: 6f1 RVA: 0x32e40
+ExitWindowsEx Ord: 6f2 RVA: 0x2b640
+FillRect Ord: 6f3 RVA: 0x242c0
+FindWindowA Ord: 6f4 RVA: 0x79b20
+FindWindowExA Ord: 6f5 RVA: 0x25920
+FindWindowExW Ord: 6f6 RVA: 0x26140
+FindWindowW Ord: 6f7 RVA: 0x24aa0
+FlashWindow Ord: 6f8 RVA: 0x7cf20
+FlashWindowEx Ord: 6f9 RVA: 0x32e50
+FrameRect Ord: 6fa RVA: 0x2fb70
+FreeDDElParam Ord: 6fb RVA: 0x55a80
+FrostCrashedWindow Ord: 6fc RVA: 0x32e70
+GetActiveWindow Ord: 6fd RVA: 0x2ad70
+GetAltTabInfo Ord: 6fe RVA: 0x79b40
+GetAltTabInfoA Ord: 6ff RVA: 0x79b40
+GetAltTabInfoW Ord: 700 RVA: 0x7f690
+GetAncestor Ord: 701 RVA: 0x32e90
+GetAppCompatFlags Ord: 702 RVA: 0x2a850
+GetAppCompatFlags2 Ord: 703 RVA: 0xc160
+GetAsyncKeyState Ord: 704 RVA: 0x24ff0
+GetAutoRotationState Ord: 705 RVA: 0x32ea0
+GetAwarenessFromDpiAwarenessContext Ord: 706 RVA: 0x19310
+GetCIMSSM Ord: 707 RVA: 0x32eb0
+GetCapture Ord: 708 RVA: 0x27ee0
+GetCaretBlinkTime Ord: 709 RVA: 0x32ec0
+GetCaretPos Ord: 70a RVA: 0x32ed0
+GetClassInfoA Ord: 70b RVA: 0x25210
+GetClassInfoExA Ord: 70c RVA: 0x253c0
+GetClassInfoExW Ord: 70d RVA: 0x71f0
+GetClassInfoW Ord: 70e RVA: 0x71a0
+GetClassLongA Ord: 70f RVA: 0x80df0
+GetClassLongPtrA Ord: 710 RVA: 0x80e50
+GetClassLongPtrW Ord: 711 RVA: 0x19d20
+GetClassLongW Ord: 712 RVA: 0x17f00
+GetClassNameA Ord: 713 RVA: 0x80540
+GetClassNameW Ord: 714 RVA: 0x23d60
+GetClassWord Ord: 715 RVA: 0x1a490
+GetClientRect Ord: 716 RVA: 0xac20
+GetClipCursor Ord: 717 RVA: 0x32ee0
+GetClipboardAccessToken Ord: 718 RVA: 0x32ef0
+GetClipboardData Ord: 719 RVA: 0x2aa30
+GetClipboardFormatNameA Ord: 71a RVA: 0x79b70
+GetClipboardFormatNameW Ord: 71b RVA: 0x2bdb0
+GetClipboardOwner Ord: 71c RVA: 0x2c0e0
+GetClipboardSequenceNumber Ord: 71d RVA: 0x2bb60
+GetClipboardViewer Ord: 71e RVA: 0x7ad40
+GetComboBoxInfo Ord: 71f RVA: 0x32f00
+GetCurrentInputMessageSource Ord: 720 RVA: 0x32f10
+GetCursor Ord: 721 RVA: 0x32f20
+GetCursorFrameInfo Ord: 722 RVA: 0x2bb30
+GetCursorInfo Ord: 723 RVA: 0x32f30
+GetCursorPos Ord: 724 RVA: 0x27aa0
+GetDC Ord: 725 RVA: 0x26430
+GetDCEx Ord: 726 RVA: 0x32f40
+GetDesktopID Ord: 727 RVA: 0x32f50
+GetDesktopWindow Ord: 728 RVA: 0x202d0
+GetDialogBaseUnits Ord: 729 RVA: 0x313e0
+GetDialogControlDpiChangeBehavior Ord: 72a RVA: 0x56520
+GetDialogDpiChangeBehavior Ord: 72b RVA: 0x56550
+GetDisplayAutoRotationPreferences Ord: 72c RVA: 0x32f60
+GetDisplayConfigBufferSizes Ord: 72d RVA: 0x288a0
+GetDlgCtrlID Ord: 72e RVA: 0x23ee0
+GetDlgItem Ord: 72f RVA: 0x13000
+GetDlgItemInt Ord: 730 RVA: 0x565a0
+GetDlgItemTextA Ord: 731 RVA: 0x80eb0
+GetDlgItemTextW Ord: 732 RVA: 0x31390
+GetDoubleClickTime Ord: 733 RVA: 0x32f80
+GetDpiAwarenessContextForProcess Ord: 734 RVA: 0x7cf80
+GetDpiForMonitorInternal Ord: 735 RVA: 0x27b30
+GetDpiForSystem Ord: 736 RVA: 0xc1c0
+GetDpiForWindow Ord: 737 RVA: 0x12a00
+GetDpiFromDpiAwarenessContext Ord: 738 RVA: 0x7cfa0
+GetExtendedPointerDeviceProperty Ord: 739 RVA: 0x32f90
+GetFocus Ord: 73a RVA: 0x25200
+GetForegroundWindow Ord: 73b RVA: 0x32fa0
+GetGUIThreadInfo Ord: 73c RVA: 0x32fb0
+GetGestureConfig Ord: 73d RVA: 0x32fc0
+GetGestureExtraArgs Ord: 73e RVA: 0x4c320
+GetGestureInfo Ord: 73f RVA: 0x4c340
+GetGuiResources Ord: 740 RVA: 0x32fd0
+GetIconInfo Ord: 741 RVA: 0x26850
+GetIconInfoExA Ord: 742 RVA: 0x4de70
+GetIconInfoExW Ord: 743 RVA: 0x29b50
+GetInputDesktop Ord: 744 RVA: 0x7cfc0
+GetInputLocaleInfo Ord: 745 RVA: 0x32ff0
+GetInputState Ord: 746 RVA: 0x787e0
+GetInternalWindowPos Ord: 747 RVA: 0x33030
+GetKBCodePage Ord: 748 RVA: 0x7cfe0
+GetKeyNameTextA Ord: 749 RVA: 0x79c10
+GetKeyNameTextW Ord: 74a RVA: 0x2b7d0
+GetKeyState Ord: 74b RVA: 0x235a0
+GetKeyboardLayout Ord: 74c RVA: 0x26f90
+GetKeyboardLayoutList Ord: 74d RVA: 0x33040
+GetKeyboardLayoutNameA Ord: 74e RVA: 0x79cc0
+GetKeyboardLayoutNameW Ord: 74f RVA: 0x2b7e0
+GetKeyboardState Ord: 750 RVA: 0x33050
+GetKeyboardType Ord: 751 RVA: 0x31030
+GetLastActivePopup Ord: 752 RVA: 0x11c50
+GetLastInputInfo Ord: 753 RVA: 0x27620
+GetLayeredWindowAttributes Ord: 754 RVA: 0x33060
+GetListBoxInfo Ord: 755 RVA: 0x33070
+GetMagnificationDesktopColorEffect Ord: 756 RVA: 0x6cb90
+GetMagnificationDesktopMagnification Ord: 757 RVA: 0x6cc70
+GetMagnificationDesktopSamplingMode Ord: 758 RVA: 0x6cd00
+GetMagnificationLensCtxInformation Ord: 759 RVA: 0x33080
+GetMenu Ord: 75a RVA: 0x29d40
+GetMenuBarInfo Ord: 75b RVA: 0x33090
+GetMenuCheckMarkDimensions Ord: 75c RVA: 0x6ed90
+GetMenuContextHelpId Ord: 75d RVA: 0x6edd0
+GetMenuDefaultItem Ord: 75e RVA: 0x287c0
+GetMenuInfo Ord: 75f RVA: 0x1460
+GetMenuItemCount Ord: 760 RVA: 0x18ff0
+GetMenuItemID Ord: 761 RVA: 0x29a70
+GetMenuItemInfoA Ord: 762 RVA: 0x80f00
+GetMenuItemInfoW Ord: 763 RVA: 0x22040
+GetMenuItemRect Ord: 764 RVA: 0x330a0
+GetMenuState Ord: 765 RVA: 0x21d20
+GetMenuStringA Ord: 766 RVA: 0x81000
+GetMenuStringW Ord: 767 RVA: 0x2ffd0
+GetMessageA Ord: 768 RVA: 0x284b0
+GetMessageExtraInfo Ord: 769 RVA: 0x28d30
+GetMessagePos Ord: 76a RVA: 0x2a910
+GetMessageTime Ord: 76b RVA: 0x29a30
+GetMessageW Ord: 76c RVA: 0x24750
+GetMonitorInfoA Ord: 76d RVA: 0x2cef0
+GetMonitorInfoW Ord: 76e RVA: 0x86d0
+GetMouseMovePointsEx Ord: 76f RVA: 0x330b0
+GetNextDlgGroupItem Ord: 770 RVA: 0x56b80
+GetNextDlgTabItem Ord: 771 RVA: 0x1de0
+GetOpenClipboardWindow Ord: 772 RVA: 0x2c100
+GetParent Ord: 773 RVA: 0x1fcf0
+GetPhysicalCursorPos Ord: 774 RVA: 0x27aa0
+GetPointerCursorId Ord: 775 RVA: 0x330e0
+GetPointerDevice Ord: 776 RVA: 0x330f0
+GetPointerDeviceCursors Ord: 777 RVA: 0x33100
+GetPointerDeviceOrientation Ord: 778 RVA: 0x33110
+GetPointerDeviceProperties Ord: 779 RVA: 0x33120
+GetPointerDeviceRects Ord: 77a RVA: 0x33130
+GetPointerDevices Ord: 77b RVA: 0x33140
+GetPointerFrameArrivalTimes Ord: 5df RVA: 0x4d1c0
+GetPointerFrameInfo Ord: 77c RVA: 0x4d310
+GetPointerFrameInfoHistory Ord: 77d RVA: 0x4d360
+GetPointerFramePenInfo Ord: 77e RVA: 0x4d3a0
+GetPointerFramePenInfoHistory Ord: 77f RVA: 0x4d3f0
+GetPointerFrameTimes Ord: 780 RVA: 0x33150
+GetPointerFrameTouchInfo Ord: 781 RVA: 0x4d430
+GetPointerFrameTouchInfoHistory Ord: 782 RVA: 0x4d480
+GetPointerInfo Ord: 783 RVA: 0x4d4c0
+GetPointerInfoHistory Ord: 784 RVA: 0x4d510
+GetPointerInputTransform Ord: 785 RVA: 0x33160
+GetPointerPenInfo Ord: 786 RVA: 0x4d560
+GetPointerPenInfoHistory Ord: 787 RVA: 0x4d5b0
+GetPointerTouchInfo Ord: 788 RVA: 0x4d600
+GetPointerTouchInfoHistory Ord: 789 RVA: 0x4d650
+GetPointerType Ord: 78a RVA: 0x33180
+GetPriorityClipboardFormat Ord: 78b RVA: 0x7ad60
+GetProcessDefaultLayout Ord: 78c RVA: 0x2c030
+GetProcessDpiAwarenessInternal Ord: 78d RVA: 0x2ad90
+GetProcessUIContextInformation Ord: 9d9 RVA: 0x331a0
+GetProcessWindowStation Ord: 78e RVA: 0x331b0
+GetProgmanWindow Ord: 78f RVA: 0x7cff0
+GetPropA Ord: 790 RVA: 0x2cc00
+GetPropW Ord: 791 RVA: 0x20150
+GetQueueStatus Ord: 792 RVA: 0x23ba0
+GetRawInputBuffer Ord: 793 RVA: 0x65fa0
+GetRawInputData Ord: 794 RVA: 0x331d0
+GetRawInputDeviceInfoA Ord: 795 RVA: 0x81050
+GetRawInputDeviceInfoW Ord: 796 RVA: 0x313d0
+GetRawInputDeviceList Ord: 797 RVA: 0x331e0
+GetRawPointerDeviceData Ord: 798 RVA: 0x331f0
+GetReasonTitleFromReasonCode Ord: 799 RVA: 0x319d0
+GetRegisteredRawInputDevices Ord: 79a RVA: 0x33200
+GetScrollBarInfo Ord: 79b RVA: 0x33220
+GetScrollInfo Ord: 79c RVA: 0x19e90
+GetScrollPos Ord: 79d RVA: 0x30c90
+GetScrollRange Ord: 79e RVA: 0x78810
+GetSendMessageReceiver Ord: 79f RVA: 0x7d050
+GetShellChangeNotifyWindow Ord: 7a0 RVA: 0x2b560
+GetShellWindow Ord: 7a1 RVA: 0x28390
+GetSubMenu Ord: 7a2 RVA: 0x298e0
+GetSysColor Ord: 7a3 RVA: 0x26090
+GetSysColorBrush Ord: 7a4 RVA: 0x28110
+GetSystemDpiForProcess Ord: 7a5 RVA: 0x33230
+GetSystemMenu Ord: 7a6 RVA: 0x33240
+GetSystemMetrics Ord: 7a7 RVA: 0x22fb0
+GetSystemMetricsForDpi Ord: 7a8 RVA: 0xc060
+GetTabbedTextExtentA Ord: 7a9 RVA: 0x53ba0
+GetTabbedTextExtentW Ord: 7aa RVA: 0x53c90
+GetTaskmanWindow Ord: 7ab RVA: 0x2c050
+GetThreadDesktop Ord: 7ac RVA: 0x33250
+GetThreadDpiAwarenessContext Ord: 7ad RVA: 0x24f00
+GetThreadDpiHostingBehavior Ord: 7ae RVA: 0x7d070
+GetTitleBarInfo Ord: 7af RVA: 0x33260
+GetTopLevelWindow Ord: 7b0 RVA: 0x33270
+GetTopWindow Ord: 7b1 RVA: 0x2c390
+GetTouchInputInfo Ord: 7b2 RVA: 0x4e5f0
+GetUnpredictedMessagePos Ord: 7b3 RVA: 0x7d0b0
+GetUpdateRect Ord: 7b4 RVA: 0x2ae00
+GetUpdateRgn Ord: 7b5 RVA: 0x7d0d0
+GetUpdatedClipboardFormats Ord: 7b6 RVA: 0x7ad80
+GetUserObjectInformationA Ord: 7b7 RVA: 0x2b970
+GetUserObjectInformationW Ord: 7b8 RVA: 0x332a0
+GetUserObjectSecurity Ord: 7b9 RVA: 0x7d160
+GetWinStationInfo Ord: 7ba RVA: 0x7d1a0
+GetWindow Ord: 7bb RVA: 0x11950
+GetWindowBand Ord: 7bc RVA: 0x332b0
+GetWindowCompositionAttribute Ord: 7bd RVA: 0x332c0
+GetWindowCompositionInfo Ord: 7be RVA: 0x332d0
+GetWindowContextHelpId Ord: 7bf RVA: 0x7d1c0
+GetWindowDC Ord: 7c0 RVA: 0x332e0
+GetWindowDisplayAffinity Ord: 7c1 RVA: 0x332f0
+GetWindowDpiAwarenessContext Ord: 7c2 RVA: 0x12cd0
+GetWindowDpiHostingBehavior Ord: 7c3 RVA: 0x7d1e0
+GetWindowFeedbackSetting Ord: 7c4 RVA: 0x33300
+GetWindowInfo Ord: 7c5 RVA: 0xba80
+GetWindowLongA Ord: 7c6 RVA: 0x129a0
+GetWindowLongPtrA Ord: 7c7 RVA: 0x12da0
+GetWindowLongPtrW Ord: 7c8 RVA: 0x13c60
+GetWindowLongW Ord: 7c9 RVA: 0x13a10
+GetWindowMinimizeRect Ord: 7ca RVA: 0x33320
+GetWindowModuleFileName Ord: 7cb RVA: 0x81170
+GetWindowModuleFileNameA Ord: 7cc RVA: 0x81170
+GetWindowModuleFileNameW Ord: 7cd RVA: 0x7df20
+GetWindowPlacement Ord: 7ce RVA: 0x33330
+GetWindowProcessHandle Ord: 7cf RVA: 0x33340
+GetWindowRect Ord: 7d0 RVA: 0x9590
+GetWindowRgn Ord: 7d3 RVA: 0x29690
+GetWindowRgnBox Ord: 7d4 RVA: 0x11cb0
+GetWindowRgnEx Ord: 7d6 RVA: 0x33350
+GetWindowTextA Ord: 7d7 RVA: 0x29050
+GetWindowTextLengthA Ord: 7d8 RVA: 0x811b0
+GetWindowTextLengthW Ord: 7d9 RVA: 0x127e0
+GetWindowTextW Ord: 7db RVA: 0x14750
+GetWindowThreadProcessId Ord: 7dc RVA: 0x22f0
+GetWindowWord Ord: 7dd RVA: 0x788d0
+GhostWindowFromHungWindow Ord: 7de RVA: 0x33360
+GrayStringA Ord: 7df RVA: 0x7d240
+GrayStringW Ord: 7e0 RVA: 0x7d2a0
+HandleDelegatedInput Ord: 9c9 RVA: 0x33370
+HideCaret Ord: 7e1 RVA: 0x28a00
+HiliteMenuItem Ord: 7e2 RVA: 0x33390
+HungWindowFromGhostWindow Ord: 7e3 RVA: 0x333a0
+IMPGetIMEA Ord: 7e4 RVA: 0x7a370
+IMPGetIMEW Ord: 7e5 RVA: 0x7a390
+IMPQueryIMEA Ord: 7e6 RVA: 0x7a3b0
+IMPQueryIMEW Ord: 7e7 RVA: 0x7a3d0
+IMPSetIMEA Ord: 7e8 RVA: 0x7a3f0
+IMPSetIMEW Ord: 7e9 RVA: 0x7a410
+ImpersonateDdeClientWindow Ord: 7ea RVA: 0x333b0
+InSendMessage Ord: 7eb RVA: 0x28140
+InSendMessageEx Ord: 7ec RVA: 0x24ed0
+InflateRect Ord: 7ed RVA: 0x7090
+InheritWindowMonitor Ord: 7ee RVA: 0x333c0
+InitDManipHook Ord: 7ef RVA: 0x4ee0
+InitializeGenericHidInjection Ord: 7f0 RVA: 0x333d0
+InitializeInputDeviceInjection Ord: 7f1 RVA: 0x333e0
+InitializeLpkHooks Ord: 7f2 RVA: 0x26f10
+InitializePointerDeviceInjection Ord: 7f3 RVA: 0x333f0
+InitializePointerDeviceInjectionEx Ord: 7f4 RVA: 0x33400
+InitializeTouchInjection Ord: 7f5 RVA: 0x33410
+InjectDeviceInput Ord: 7f6 RVA: 0x33420
+InjectGenericHidInput Ord: 7f7 RVA: 0x33430
+InjectKeyboardInput Ord: 7f8 RVA: 0x33440
+InjectMouseInput Ord: 7f9 RVA: 0x33450
+InjectPointerInput Ord: 7fa RVA: 0x33460
+InjectSyntheticPointerInput Ord: 7fb RVA: 0x33460
+InjectTouchInput Ord: 7fc RVA: 0x33470
+InsertMenuA Ord: 7fd RVA: 0x81200
+InsertMenuItemA Ord: 7fe RVA: 0x81280
+InsertMenuItemW Ord: 7ff RVA: 0x21ea0
+InsertMenuW Ord: 800 RVA: 0x21e20
+InternalGetWindowIcon Ord: 801 RVA: 0x31620
+InternalGetWindowText Ord: 802 RVA: 0x27fa0
+IntersectRect Ord: 803 RVA: 0xc430
+InvalidateRect Ord: 804 RVA: 0x33490
+InvalidateRgn Ord: 805 RVA: 0x334a0
+InvertRect Ord: 806 RVA: 0x26240
+IsCharAlphaA Ord: 807 RVA: 0x7ada0
+IsCharAlphaNumericA Ord: 808 RVA: 0x7adb0
+IsCharAlphaNumericW Ord: 809 RVA: 0x315f0
+IsCharAlphaW Ord: 80a RVA: 0x7adc0
+IsCharLowerA Ord: 80b RVA: 0x7add0
+IsCharLowerW Ord: 80c RVA: 0x7ade0
+IsCharUpperA Ord: 80d RVA: 0x7adf0
+IsCharUpperW Ord: 80e RVA: 0x7ae00
+IsChild Ord: 80f RVA: 0x12a60
+IsClipboardFormatAvailable Ord: 810 RVA: 0x251e0
+IsDialogMessage Ord: 811 RVA: 0x567f0
+IsDialogMessageA Ord: 812 RVA: 0x567f0
+IsDialogMessageW Ord: 813 RVA: 0x17730
+IsDlgButtonChecked Ord: 814 RVA: 0x56710
+IsGUIThread Ord: 815 RVA: 0x280d0
+IsHungAppWindow Ord: 816 RVA: 0x299b0
+IsIconic Ord: 817 RVA: 0x23c20
+IsImmersiveProcess Ord: 818 RVA: 0x28f50
+IsInDesktopWindowBand Ord: 819 RVA: 0x2a9b0
+IsMenu Ord: 81a RVA: 0x19290
+IsMouseInPointerEnabled Ord: 81b RVA: 0x334c0
+IsOneCoreTransformMode Ord: 81c RVA: 0x334f0
+IsProcessDPIAware Ord: 81d RVA: 0x236e0
+IsQueueAttached Ord: 81e RVA: 0x7d2f0
+IsRectEmpty Ord: 81f RVA: 0x24360
+IsSETEnabled Ord: 820 RVA: 0x73710
+IsServerSideWindow Ord: 821 RVA: 0x262c0
+IsThreadDesktopComposited Ord: 822 RVA: 0xc2d0
+IsThreadMessageQueueAttached Ord: 9e0 RVA: 0x26220
+IsThreadTSFEventAware Ord: 823 RVA: 0x1270
+IsTopLevelWindow Ord: 824 RVA: 0x33510
+IsTouchWindow Ord: 825 RVA: 0x33520
+IsValidDpiAwarenessContext Ord: 826 RVA: 0x7d310
+IsWinEventHookInstalled Ord: 827 RVA: 0x24c20
+IsWindow Ord: 828 RVA: 0x11b30
+IsWindowArranged Ord: 829 RVA: 0x24510
+IsWindowEnabled Ord: 82a RVA: 0x17d50
+IsWindowInDestroy Ord: 82b RVA: 0x18200
+IsWindowRedirectedForPrint Ord: 82c RVA: 0x12d30
+IsWindowUnicode Ord: 82d RVA: 0x17e70
+IsWindowVisible Ord: 82e RVA: 0x22b60
+IsWow64Message Ord: 82f RVA: 0x4d080
+IsZoomed Ord: 830 RVA: 0x192b0
+KillTimer Ord: 831 RVA: 0x33550
+LoadAcceleratorsA Ord: 832 RVA: 0x4dfb0
+LoadAcceleratorsW Ord: 833 RVA: 0x27b60
+LoadBitmapA Ord: 834 RVA: 0x30f80
+LoadBitmapW Ord: 835 RVA: 0x5b80
+LoadCursorA Ord: 836 RVA: 0x8690
+LoadCursorFromFileA Ord: 837 RVA: 0x49150
+LoadCursorFromFileW Ord: 838 RVA: 0x491c0
+LoadCursorW Ord: 839 RVA: 0xa080
+LoadIconA Ord: 83a RVA: 0x2bf40
+LoadIconW Ord: 83b RVA: 0x8ad0
+LoadImageA Ord: 83c RVA: 0x2f160
+LoadImageW Ord: 83d RVA: 0x8d70
+LoadKeyboardLayoutA Ord: 83e RVA: 0x7d330
+LoadKeyboardLayoutEx Ord: 83f RVA: 0x7d3c0
+LoadKeyboardLayoutW Ord: 840 RVA: 0x1e940
+LoadLocalFonts Ord: 841 RVA: 0x2c1d0
+LoadMenuA Ord: 842 RVA: 0x4c900
+LoadMenuIndirectA Ord: 843 RVA: 0x3920
+LoadMenuIndirectW Ord: 844 RVA: 0x3920
+LoadMenuW Ord: 845 RVA: 0x3860
+LoadRemoteFonts Ord: 846 RVA: 0x2c110
+LoadStringA Ord: 847 RVA: 0x4dff0
+LoadStringW Ord: 848 RVA: 0x27ec0
+LockSetForegroundWindow Ord: 849 RVA: 0x7d3f0
+LockWindowStation Ord: 84a RVA: 0x33570
+LockWindowUpdate Ord: 84b RVA: 0x33580
+LockWorkStation Ord: 84c RVA: 0x33590
+LogicalToPhysicalPoint Ord: 84d RVA: 0x335b0
+LogicalToPhysicalPointForPerMonitorDPI Ord: 84e RVA: 0x335c0
+LookupIconIdFromDirectory Ord: 84f RVA: 0x4e080
+LookupIconIdFromDirectoryEx Ord: 850 RVA: 0x61d0
+MBToWCSEx Ord: 851 RVA: 0x25c10
+MBToWCSExt Ord: 852 RVA: 0x25be0
+MB_GetString Ord: 853 RVA: 0x717c0
+MITGetCursorUpdateHandle Ord: 854 RVA: 0x2c2e0
+MITSetForegroundRoutingInfo Ord: 855 RVA: 0x2c320
+MITSetInputDelegationMode Ord: 856 RVA: 0x2aff0
+MITSetLastInputRecipient Ord: 857 RVA: 0x73a00
+MITSynthesizeTouchInput Ord: 858 RVA: 0x73a10
+MakeThreadTSFEventAware Ord: 859 RVA: 0x2a890
+MapDialogRect Ord: 85a RVA: 0x30d00
+MapPointsByVisualIdentifier Ord: 85b RVA: 0x335d0
+MapVirtualKeyA Ord: 85c RVA: 0x79d30
+MapVirtualKeyExA Ord: 85d RVA: 0x79d90
+MapVirtualKeyExW Ord: 85e RVA: 0x2a830
+MapVirtualKeyW Ord: 85f RVA: 0x27fd0
+MapVisualRelativePoints Ord: 860 RVA: 0x335e0
+MapWindowPoints Ord: 861 RVA: 0x14350
+MenuItemFromPoint Ord: 862 RVA: 0x335f0
+MenuWindowProcA Ord: 863 RVA: 0x4d0a0
+MenuWindowProcW Ord: 864 RVA: 0x4d120
+MessageBeep Ord: 865 RVA: 0x7d410
+MessageBoxA Ord: 866 RVA: 0x717f0
+MessageBoxExA Ord: 867 RVA: 0x71850
+MessageBoxExW Ord: 868 RVA: 0x71880
+MessageBoxIndirectA Ord: 869 RVA: 0x718b0
+MessageBoxIndirectW Ord: 86a RVA: 0x71a50
+MessageBoxTimeoutA Ord: 86b RVA: 0x71b10
+MessageBoxTimeoutW Ord: 86c RVA: 0x71c60
+MessageBoxW Ord: 86d RVA: 0x71e30
+ModifyMenuA Ord: 86e RVA: 0x812f0
+ModifyMenuW Ord: 86f RVA: 0x308f0
+MonitorFromPoint Ord: 870 RVA: 0x8a90
+MonitorFromRect Ord: 871 RVA: 0xa5d0
+MonitorFromWindow Ord: 872 RVA: 0x22e60
+MoveWindow Ord: 873 RVA: 0x33600
+MsgWaitForMultipleObjects Ord: 874 RVA: 0x228e0
+MsgWaitForMultipleObjectsEx Ord: 875 RVA: 0x229a0
+NotifyOverlayWindow Ord: 876 RVA: 0x7d430
+NotifyWinEvent Ord: 877 RVA: 0x1d9a0
+OemKeyScan Ord: 878 RVA: 0x72830
+OemToCharA Ord: 879 RVA: 0x728b0
+OemToCharBuffA Ord: 87a RVA: 0x72900
+OemToCharBuffW Ord: 87b RVA: 0x72950
+OemToCharW Ord: 87c RVA: 0x729a0
+OffsetRect Ord: 87d RVA: 0x12970
+OpenClipboard Ord: 87e RVA: 0x2aea0
+OpenDesktopA Ord: 87f RVA: 0x29160
+OpenDesktopW Ord: 880 RVA: 0x291d0
+OpenIcon Ord: 881 RVA: 0x7d450
+OpenInputDesktop Ord: 882 RVA: 0x33620
+OpenThreadDesktop Ord: 883 RVA: 0x33630
+OpenWindowStationA Ord: 884 RVA: 0x1ed00
+OpenWindowStationW Ord: 885 RVA: 0x1ed60
+PackDDElParam Ord: 886 RVA: 0x55af0
+PackTouchHitTestingProximityEvaluation Ord: 887 RVA: 0x765d0
+PaintDesktop Ord: 888 RVA: 0x800c0
+PaintMenuBar Ord: 889 RVA: 0x33640
+PaintMonitor Ord: 88a RVA: 0x33650
+PeekMessageA Ord: 88b RVA: 0x1a680
+PeekMessageW Ord: 88c RVA: 0x19f10
+PhysicalToLogicalPoint Ord: 88d RVA: 0x33670
+PhysicalToLogicalPointForPerMonitorDPI Ord: 88e RVA: 0x33680
+PostMessageA Ord: 88f RVA: 0x1abe0
+PostMessageW Ord: 890 RVA: 0x23650
+PostQuitMessage Ord: 891 RVA: 0x2b050
+PostThreadMessageA Ord: 892 RVA: 0x31300
+PostThreadMessageW Ord: 893 RVA: 0x19460
+PrintWindow Ord: 894 RVA: 0x33690
+PrivateExtractIconExA Ord: 895 RVA: 0x65b40
+PrivateExtractIconExW Ord: 896 RVA: 0x65bd0
+PrivateExtractIconsA Ord: 897 RVA: 0x65d70
+PrivateExtractIconsW Ord: 898 RVA: 0x1c290
+PrivateRegisterICSProc Ord: 899 RVA: 0x1e80
+PtInRect Ord: 89a RVA: 0x12ad0
+QueryBSDRWindow Ord: 89b RVA: 0x336d0
+QueryDisplayConfig Ord: 89c RVA: 0x11230
+QuerySendMessage Ord: 89d RVA: 0x336e0
+RIMAddInputObserver Ord: 89e RVA: 0x336f0
+RIMAreSiblingDevices Ord: 89f RVA: 0x33700
+RIMDeviceIoControl Ord: 8a0 RVA: 0x33710
+RIMEnableMonitorMappingForDevice Ord: 8a1 RVA: 0x33720
+RIMFreeInputBuffer Ord: 8a2 RVA: 0x33730
+RIMGetDevicePreparsedData Ord: 8a3 RVA: 0x33740
+RIMGetDevicePreparsedDataLockfree Ord: 8a4 RVA: 0x33750
+RIMGetDeviceProperties Ord: 8a5 RVA: 0x33760
+RIMGetDevicePropertiesLockfree Ord: 8a6 RVA: 0x33770
+RIMGetPhysicalDeviceRect Ord: 8a7 RVA: 0x33780
+RIMGetSourceProcessId Ord: 8a8 RVA: 0x33790
+RIMObserveNextInput Ord: 8a9 RVA: 0x337a0
+RIMOnPnpNotification Ord: 8aa RVA: 0x337b0
+RIMOnTimerNotification Ord: 8ab RVA: 0x337c0
+RIMReadInput Ord: 8ac RVA: 0x337d0
+RIMRegisterForInput Ord: 8ad RVA: 0x337e0
+RIMRemoveInputObserver Ord: 8ae RVA: 0x337f0
+RIMSetExtendedDeviceProperty Ord: 8af RVA: 0x33800
+RIMSetTestModeStatus Ord: 8b0 RVA: 0x33810
+RIMUnregisterForInput Ord: 8b1 RVA: 0x33820
+RIMUpdateInputObserverRegistration Ord: 8b2 RVA: 0x33830
+RealChildWindowFromPoint Ord: 8b3 RVA: 0x33840
+RealGetWindowClass Ord: 8b4 RVA: 0x79e70
+RealGetWindowClassA Ord: 8b5 RVA: 0x79e70
+RealGetWindowClassW Ord: 8b6 RVA: 0x251b0
+ReasonCodeNeedsBugID Ord: 8b7 RVA: 0x738b0
+ReasonCodeNeedsComment Ord: 8b8 RVA: 0x738c0
+RecordShutdownReason Ord: 8b9 RVA: 0x31fb0
+RedrawWindow Ord: 8ba RVA: 0x33850
+RegisterBSDRWindow Ord: 8bb RVA: 0x33860
+RegisterClassA Ord: 8bc RVA: 0x255c0
+RegisterClassExA Ord: 8bd RVA: 0x81370
+RegisterClassExW Ord: 8be RVA: 0x73e0
+RegisterClassW Ord: 8bf RVA: 0x7410
+RegisterClipboardFormatA Ord: 8c0 RVA: 0x25a00
+RegisterClipboardFormatW Ord: 8c1 RVA: 0x26740
+RegisterDManipHook Ord: 8c2 RVA: 0x33870
+RegisterDeviceNotificationA Ord: 8c3 RVA: 0x2acd0
+RegisterDeviceNotificationW Ord: 8c4 RVA: 0x2acd0
+RegisterErrorReportingDialog Ord: 8c5 RVA: 0x33880
+RegisterFrostWindow Ord: 8c6 RVA: 0x7d4d0
+RegisterGhostWindow Ord: 8c7 RVA: 0x31600
+RegisterHotKey Ord: 8c8 RVA: 0x33890
+RegisterLogonProcess Ord: 8c9 RVA: 0x2be90
+RegisterMessagePumpHook Ord: 8ca RVA: 0x2b200
+RegisterPointerDeviceNotifications Ord: 8cb RVA: 0x338a0
+RegisterPointerInputTarget Ord: 8cc RVA: 0x4d6c0
+RegisterPointerInputTargetEx Ord: 8cd RVA: 0x4d1c0
+RegisterPowerSettingNotification Ord: 8ce RVA: 0x29dc0
+RegisterRawInputDevices Ord: 8cf RVA: 0x338b0
+RegisterServicesProcess Ord: 8d0 RVA: 0x338c0
+RegisterSessionPort Ord: 8d1 RVA: 0x338d0
+RegisterShellHookWindow Ord: 8d2 RVA: 0x2bfa0
+RegisterSuspendResumeNotification Ord: 8d3 RVA: 0x802d0
+RegisterSystemThread Ord: 8d4 RVA: 0x315b0
+RegisterTasklist Ord: 8d5 RVA: 0x338f0
+RegisterTouchHitTestingWindow Ord: 8d6 RVA: 0x33900
+RegisterTouchWindow Ord: 8d7 RVA: 0x80330
+RegisterUserApiHook Ord: 8d8 RVA: 0x2b8b0
+RegisterWindowMessageA Ord: 8d9 RVA: 0x25a00
+RegisterWindowMessageW Ord: 8da RVA: 0x26740
+ReleaseCapture Ord: 8db RVA: 0x2bb10
+ReleaseDC Ord: 8dc RVA: 0xe2d0
+ReleaseDwmHitTestWaiters Ord: 8dd RVA: 0x33920
+RemoveClipboardFormatListener Ord: 8de RVA: 0x2c2a0
+RemoveInjectionDevice Ord: 8df RVA: 0x32c60
+RemoveMenu Ord: 8e0 RVA: 0x33930
+RemovePropA Ord: 8e1 RVA: 0x79f20
+RemovePropW Ord: 8e2 RVA: 0x260d0
+RemoveThreadTSFEventAwareness Ord: 8e3 RVA: 0x1d80
+RemoveVisualIdentifier Ord: 8e4 RVA: 0x33940
+ReplyMessage Ord: 8e5 RVA: 0x29670
+ReportInertia Ord: 9f7 RVA: 0x1ea0
+ResolveDesktopForWOW Ord: 8e6 RVA: 0x33960
+ReuseDDElParam Ord: 8e7 RVA: 0x55b70
+ScreenToClient Ord: 8e8 RVA: 0x19030
+ScrollChildren Ord: 8e9 RVA: 0x6ea50
+ScrollDC Ord: 8ea RVA: 0x26ee0
+ScrollWindow Ord: 8eb RVA: 0x7d530
+ScrollWindowEx Ord: 8ec RVA: 0x26b60
+SendDlgItemMessageA Ord: 8ed RVA: 0x813b0
+SendDlgItemMessageW Ord: 8ee RVA: 0x1220
+SendIMEMessageExA Ord: 8ef RVA: 0x7a430
+SendIMEMessageExW Ord: 8f0 RVA: 0x7a450
+SendInput Ord: 8f1 RVA: 0x33990
+SendMessageA Ord: 8f2 RVA: 0x28fe0
+SendMessageCallbackA Ord: 8f3 RVA: 0x79fc0
+SendMessageCallbackW Ord: 8f4 RVA: 0x27f10
+SendMessageTimeoutA Ord: 8f5 RVA: 0x30400
+SendMessageTimeoutW Ord: 8f6 RVA: 0x22a50
+SendMessageW Ord: 8f7 RVA: 0x15aa0
+SendNotifyMessageA Ord: 8f8 RVA: 0x2fb30
+SendNotifyMessageW Ord: 8f9 RVA: 0x28bf0
+SetActiveWindow Ord: 8fa RVA: 0x339d0
+SetCapture Ord: 8fb RVA: 0x33a20
+SetCaretBlinkTime Ord: 8fc RVA: 0x2a280
+SetCaretPos Ord: 8fd RVA: 0x2afd0
+SetClassLongA Ord: 8fe RVA: 0x7a050
+SetClassLongPtrA Ord: 8ff RVA: 0x7a070
+SetClassLongPtrW Ord: 900 RVA: 0x2be10
+SetClassLongW Ord: 901 RVA: 0x31530
+SetClassWord Ord: 902 RVA: 0x33a40
+SetClipboardData Ord: 903 RVA: 0x2f8a0
+SetClipboardViewer Ord: 904 RVA: 0x31570
+SetCoalescableTimer Ord: 905 RVA: 0x33a50
+SetCoreWindow Ord: a0b RVA: 0x33a60
+SetCursor Ord: 906 RVA: 0x2a950
+SetCursorContents Ord: 907 RVA: 0x33a80
+SetCursorPos Ord: 908 RVA: 0x33aa0
+SetDebugErrorLevel Ord: 909 RVA: 0x2c310
+SetDeskWallpaper Ord: 90a RVA: 0x7d590
+SetDesktopColorTransform Ord: 90b RVA: 0x33ab0
+SetDialogControlDpiChangeBehavior Ord: 90c RVA: 0x33ac0
+SetDialogDpiChangeBehavior Ord: 90d RVA: 0x56740
+SetDisplayAutoRotationPreferences Ord: 90e RVA: 0x33ad0
+SetDisplayConfig Ord: 90f RVA: 0x82a80
+SetDlgItemInt Ord: 910 RVA: 0x1360
+SetDlgItemTextA Ord: 911 RVA: 0x81400
+SetDlgItemTextW Ord: 912 RVA: 0x7df60
+SetDoubleClickTime Ord: 913 RVA: 0x7d5b0
+SetFeatureReportResponse Ord: 914 RVA: 0x33b00
+SetFocus Ord: 915 RVA: 0x33b10
+SetForegroundWindow Ord: 916 RVA: 0x2b490
+SetGestureConfig Ord: 917 RVA: 0x33b30
+SetInternalWindowPos Ord: 918 RVA: 0x33b60
+SetKeyboardState Ord: 919 RVA: 0x33b70
+SetLastErrorEx Ord: 91a RVA: 0x72a10
+SetLayeredWindowAttributes Ord: 91b RVA: 0x33b80
+SetMagnificationDesktopColorEffect Ord: 91c RVA: 0x6cdf0
+SetMagnificationDesktopMagnification Ord: 91d RVA: 0x6cec0
+SetMagnificationDesktopMagnifierOffsetsDWMUpdated Ord: 91e RVA: 0x33b90
+SetMagnificationDesktopSamplingMode Ord: 91f RVA: 0x6cf30
+SetMagnificationLensCtxInformation Ord: 920 RVA: 0x33ba0
+SetMenu Ord: 921 RVA: 0x2bc90
+SetMenuContextHelpId Ord: 922 RVA: 0x33bb0
+SetMenuDefaultItem Ord: 923 RVA: 0x33bc0
+SetMenuInfo Ord: 924 RVA: 0x1500
+SetMenuItemBitmaps Ord: 925 RVA: 0x1b80
+SetMenuItemInfoA Ord: 926 RVA: 0x81430
+SetMenuItemInfoW Ord: 927 RVA: 0x21cb0
+SetMessageExtraInfo Ord: 928 RVA: 0x4d1a0
+SetMessageQueue Ord: 929 RVA: 0x2c340
+SetMirrorRendering Ord: 92a RVA: 0x33bd0
+SetParent Ord: 92b RVA: 0x2b890
+SetPhysicalCursorPos Ord: 92c RVA: 0x33aa0
+SetPointerDeviceInputSpace Ord: 92d RVA: 0x33be0
+SetProcessDPIAware Ord: 92e RVA: 0x1b790
+SetProcessDefaultLayout Ord: 92f RVA: 0x7d5d0
+SetProcessDpiAwarenessContext Ord: 930 RVA: 0x19db0
+SetProcessDpiAwarenessInternal Ord: 931 RVA: 0x19e40
+SetProcessRestrictionExemption Ord: 932 RVA: 0x33c20
+SetProcessWindowStation Ord: 933 RVA: 0x33c30
+SetProgmanWindow Ord: 934 RVA: 0x7d5f0
+SetPropA Ord: 935 RVA: 0x7a190
+SetPropW Ord: 936 RVA: 0x11780
+SetRect Ord: 937 RVA: 0x24b70
+SetRectEmpty Ord: 938 RVA: 0x24b50
+SetScrollInfo Ord: 939 RVA: 0x1de90
+SetScrollPos Ord: 93a RVA: 0x31490
+SetScrollRange Ord: 93b RVA: 0x30080
+SetShellChangeNotifyWindow Ord: 93c RVA: 0x2c280
+SetShellWindow Ord: 93d RVA: 0x7d610
+SetShellWindowEx Ord: 93e RVA: 0x33c50
+SetSysColors Ord: 93f RVA: 0x2c190
+SetSysColorsTemp Ord: 940 RVA: 0x72a20
+SetSystemCursor Ord: 941 RVA: 0x80350
+SetSystemMenu Ord: 942 RVA: 0x33c60
+SetTaskmanWindow Ord: 943 RVA: 0x2c250
+SetThreadDesktop Ord: 944 RVA: 0x2b630
+SetThreadDpiAwarenessContext Ord: 945 RVA: 0x180c0
+SetThreadDpiHostingBehavior Ord: 946 RVA: 0x7d640
+SetThreadInputBlocked Ord: 947 RVA: 0x33c80
+SetTimer Ord: 948 RVA: 0x25e40
+SetUserObjectInformationA Ord: 949 RVA: 0x7d720
+SetUserObjectInformationW Ord: 94a RVA: 0x7d790
+SetUserObjectSecurity Ord: 94b RVA: 0x2bbc0
+SetWinEventHook Ord: 94c RVA: 0x28c50
+SetWindowBand Ord: 94d RVA: 0x33ca0
+SetWindowCompositionAttribute Ord: 94e RVA: 0x28910
+SetWindowCompositionTransition Ord: 94f RVA: 0x33cb0
+SetWindowContextHelpId Ord: 950 RVA: 0x7d7a0
+SetWindowDisplayAffinity Ord: 951 RVA: 0x33cc0
+SetWindowFeedbackSetting Ord: 952 RVA: 0x33cd0
+SetWindowLongA Ord: 953 RVA: 0x1b7b0
+SetWindowLongPtrA Ord: 954 RVA: 0x2bdf0
+SetWindowLongPtrW Ord: 955 RVA: 0x11fd0
+SetWindowLongW Ord: 956 RVA: 0x17db0
+SetWindowPlacement Ord: 957 RVA: 0x33cf0
+SetWindowPos Ord: 958 RVA: 0x33d00
+SetWindowRgn Ord: 959 RVA: 0x19490
+SetWindowRgnEx Ord: 95a RVA: 0x803b0
+SetWindowStationUser Ord: 95b RVA: 0x2ba90
+SetWindowTextA Ord: 95c RVA: 0x814a0
+SetWindowTextW Ord: 95d RVA: 0x128b0
+SetWindowWord Ord: 95e RVA: 0x33d20
+SetWindowsHookA Ord: 95f RVA: 0x4c650
+SetWindowsHookExA Ord: 960 RVA: 0x4c670
+SetWindowsHookExW Ord: 961 RVA: 0x1afd0
+SetWindowsHookW Ord: 962 RVA: 0x4c690
+ShowCaret Ord: 963 RVA: 0x28a20
+ShowCursor Ord: 964 RVA: 0x33d30
+ShowOwnedPopups Ord: 965 RVA: 0x315d0
+ShowScrollBar Ord: 966 RVA: 0x33d40
+ShowStartGlass Ord: 967 RVA: 0x7d7c0
+ShowSystemCursor Ord: 968 RVA: 0x33d50
+ShowWindow Ord: 969 RVA: 0x33d60
+ShowWindowAsync Ord: 96a RVA: 0x33d70
+ShutdownBlockReasonCreate Ord: 96b RVA: 0x2a2a0
+ShutdownBlockReasonDestroy Ord: 96c RVA: 0x33d80
+ShutdownBlockReasonQuery Ord: 96d RVA: 0x33d90
+SignalRedirectionStartComplete Ord: 96e RVA: 0x33da0
+SkipPointerFrameMessages Ord: 96f RVA: 0x33db0
+SoftModalMessageBox Ord: 970 RVA: 0x71e90
+SoundSentry Ord: 971 RVA: 0x33dd0
+SubtractRect Ord: 972 RVA: 0x29c50
+SwapMouseButton Ord: 973 RVA: 0x7d7e0
+SwitchDesktop Ord: 974 RVA: 0x2bf80
+SwitchDesktopWithFade Ord: 975 RVA: 0x2c270
+SwitchToThisWindow Ord: 976 RVA: 0x1b20
+SystemParametersInfoA Ord: 977 RVA: 0x24660
+SystemParametersInfoForDpi Ord: 978 RVA: 0x1a5e0
+SystemParametersInfoW Ord: 979 RVA: 0x23d90
+TabbedTextOutA Ord: 97a RVA: 0x53d10
+TabbedTextOutW Ord: 97b RVA: 0x53e30
+TileChildWindows Ord: 97c RVA: 0x7d800
+TileWindows Ord: 97d RVA: 0x6ea80
+ToAscii Ord: 97e RVA: 0x7d830
+ToAsciiEx Ord: 97f RVA: 0x7d8b0
+ToUnicode Ord: 980 RVA: 0x803f0
+ToUnicodeEx Ord: 981 RVA: 0x285d0
+TrackMouseEvent Ord: 982 RVA: 0x33de0
+TrackPopupMenu Ord: 983 RVA: 0x6edf0
+TrackPopupMenuEx Ord: 984 RVA: 0x33df0
+TranslateAccelerator Ord: 985 RVA: 0x7da20
+TranslateAcceleratorA Ord: 986 RVA: 0x7da20
+TranslateAcceleratorW Ord: 987 RVA: 0x25e00
+TranslateMDISysAccel Ord: 988 RVA: 0x6eab0
+TranslateMessage Ord: 989 RVA: 0x1aa40
+TranslateMessageEx Ord: 98a RVA: 0x266f0
+UndelegateInput Ord: 9c8 RVA: 0x33e00
+UnhookWinEvent Ord: 98b RVA: 0x33e10
+UnhookWindowsHook Ord: 98c RVA: 0x7dab0
+UnhookWindowsHookEx Ord: 98d RVA: 0x2aa00
+UnionRect Ord: 98e RVA: 0x24d10
+UnloadKeyboardLayout Ord: 98f RVA: 0x7dad0
+UnlockWindowStation Ord: 990 RVA: 0x33e20
+UnpackDDElParam Ord: 991 RVA: 0x55c30
+UnregisterClassA Ord: 992 RVA: 0x25240
+UnregisterClassW Ord: 993 RVA: 0x7820
+UnregisterDeviceNotification Ord: 994 RVA: 0x2b5f0
+UnregisterHotKey Ord: 995 RVA: 0x33e30
+UnregisterMessagePumpHook Ord: 996 RVA: 0x31230
+UnregisterPointerInputTarget Ord: 997 RVA: 0x4d6f0
+UnregisterPointerInputTargetEx Ord: 998 RVA: 0x4d1c0
+UnregisterPowerSettingNotification Ord: 999 RVA: 0x2b000
+UnregisterSessionPort Ord: 99a RVA: 0x33e40
+UnregisterSuspendResumeNotification Ord: 99b RVA: 0x80440
+UnregisterTouchWindow Ord: 99c RVA: 0x80470
+UnregisterUserApiHook Ord: 99d RVA: 0x33e50
+UpdateDefaultDesktopThumbnail Ord: 99e RVA: 0x33e60
+UpdateLayeredWindow Ord: 99f RVA: 0x30880
+UpdateLayeredWindowIndirect Ord: 9a0 RVA: 0x2eb50
+UpdatePerUserSystemParameters Ord: 9a1 RVA: 0x1e090
+UpdateWindow Ord: 9a2 RVA: 0x19330
+UpdateWindowInputSinkHints Ord: 9a3 RVA: 0x33e70
+User32InitializeImmEntryTable Ord: 9a4 RVA: 0x105b0
+UserClientDllInitialize Ord: 9a5 RVA: 0xf180
+UserHandleGrantAccess Ord: 9a6 RVA: 0x33e90
+UserLpkPSMTextOut Ord: 9a7 RVA: 0x53e80
+UserLpkTabbedTextOut Ord: 9a8 RVA: 0x54090
+UserRealizePalette Ord: 9a9 RVA: 0x2f440
+UserRegisterWowHandlers Ord: 9aa RVA: 0x7db00
+VRipOutput Ord: 9ab RVA: 0x2c320
+VTagOutput Ord: 9ac RVA: 0x2c320
+ValidateRect Ord: 9ad RVA: 0x33ea0
+ValidateRgn Ord: 9ae RVA: 0x1e50
+VkKeyScanA Ord: 9af RVA: 0x7a260
+VkKeyScanExA Ord: 9b0 RVA: 0x7a2c0
+VkKeyScanExW Ord: 9b1 RVA: 0x15a0
+VkKeyScanW Ord: 9b2 RVA: 0x2b0a0
+WCSToMBEx Ord: 9b3 RVA: 0x5920
+WINNLSEnableIME Ord: 9b4 RVA: 0x7a470
+WINNLSGetEnableStatus Ord: 9b5 RVA: 0x7a490
+WINNLSGetIMEHotkey Ord: 9b6 RVA: 0x2c320
+WaitForInputIdle Ord: 9b7 RVA: 0x2bd30
+WaitForRedirectionStartComplete Ord: 9b8 RVA: 0x33ec0
+WaitMessage Ord: 9b9 RVA: 0x33ed0
+WinHelpA Ord: 9ba RVA: 0x30a20
+WinHelpW Ord: 9bb RVA: 0x30970
+WindowFromDC Ord: 9bc RVA: 0x33ee0
+WindowFromPhysicalPoint Ord: 9bd RVA: 0x33ef0
+WindowFromPoint Ord: 9be RVA: 0x33f00
+_UserTestTokenForInteractive Ord: 9bf RVA: 0x76cf0
+gSharedInfo Ord: 9c0 RVA: 0xa6f50
+gapfnScSendMessage Ord: 9c1 RVA: 0x86940
+keybd_event Ord: 9c2 RVA: 0x80490
+mouse_event Ord: 9c3 RVA: 0x2b5a0
+wsprintfA Ord: 9c4 RVA: 0x27650
+wsprintfW Ord: 9c5 RVA: 0x292c0
+wvsprintfA Ord: 9c6 RVA: 0x27680
+wvsprintfW Ord: 9ef RVA: 0x292f0
+_Ordinal_0 Ord: 0 RVA: 0x4e620
+_Ordinal_49 Ord: 49 RVA: 0x739a0
+_Ordinal_52 Ord: 52 RVA: 0x2c320
+_Ordinal_500 Ord: 500 RVA: 0x6cd50
+_Ordinal_508 Ord: 508 RVA: 0x33dc0
+_Ordinal_1004 Ord: 1004 RVA: 0x4c3f0
+_Ordinal_1005 Ord: 1005 RVA: 0x339e0
+_Ordinal_1009 Ord: 1009 RVA: 0x33af0
+_Ordinal_1012 Ord: 1012 RVA: 0x4d6a0
+_Ordinal_1013 Ord: 1013 RVA: 0x4d6e0
+_Ordinal_1017 Ord: 1017 RVA: 0x32d70
+_Ordinal_1020 Ord: 1020 RVA: 0x33a00
+_Ordinal_1021 Ord: 1021 RVA: 0x1010
+_Ordinal_1025 Ord: 1025 RVA: 0x1cf60
+_Ordinal_1028 Ord: 1028 RVA: 0x33eb0
+_Ordinal_1029 Ord: 1029 RVA: 0x33a10
+_Ordinal_1033 Ord: 1033 RVA: 0x78780
+_Ordinal_1036 Ord: 1036 RVA: 0x33560
+_Ordinal_1037 Ord: 1037 RVA: 0x33380
+_Ordinal_1044 Ord: 1044 RVA: 0x33910
+_Ordinal_1052 Ord: 1052 RVA: 0x7d490
+_Ordinal_1053 Ord: 1053 RVA: 0x84a30
+_Ordinal_1057 Ord: 1057 RVA: 0x330c0
+_Ordinal_1061 Ord: 1061 RVA: 0x32af0
+_Ordinal_1065 Ord: 1065 RVA: 0x2c230
+_Ordinal_1068 Ord: 1068 RVA: 0x7d6c0
+_Ordinal_1073 Ord: 1073 RVA: 0x7cf60
+_Ordinal_1076 Ord: 1076 RVA: 0x33610
+_Ordinal_1077 Ord: 1077 RVA: 0x33d10
+_Ordinal_1084 Ord: 1084 RVA: 0x2a930
+_Ordinal_1085 Ord: 1085 RVA: 0x4ec0
+_Ordinal_1089 Ord: 1089 RVA: 0x339a0
+_Ordinal_1092 Ord: 1092 RVA: 0x33b50
+_Ordinal_1093 Ord: 1093 RVA: 0x33c00
+_Ordinal_1097 Ord: 1097 RVA: 0x280b0
+_Ordinal_1108 Ord: 1108 RVA: 0x32b40
+_Ordinal_1109 Ord: 1109 RVA: 0x32df0
+_Ordinal_1113 Ord: 1113 RVA: 0x32da0
+_Ordinal_1116 Ord: 1116 RVA: 0x82c90
+_Ordinal_1117 Ord: 1117 RVA: 0x2bdc0
+_Ordinal_1124 Ord: 1124 RVA: 0x33950
+_Ordinal_1125 Ord: 1125 RVA: 0x339f0
+_Ordinal_1129 Ord: 1129 RVA: 0x32de0
+_Ordinal_1132 Ord: 1132 RVA: 0x7d620
+_Ordinal_1133 Ord: 1133 RVA: 0x12e00
+_Ordinal_1137 Ord: 1137 RVA: 0x33a90
+_Ordinal_1140 Ord: 1140 RVA: 0x32e60
+_Ordinal_1141 Ord: 1141 RVA: 0x33970
+_Ordinal_1145 Ord: 1145 RVA: 0x32b50
+_Ordinal_1148 Ord: 1148 RVA: 0x32fe0
+_Ordinal_1149 Ord: 1149 RVA: 0x32cb0
+_Ordinal_1201 Ord: 1201 RVA: 0x334e0
+_Ordinal_1204 Ord: 1204 RVA: 0x33530
+_Ordinal_1205 Ord: 1205 RVA: 0x193b0
+_Ordinal_1209 Ord: 1209 RVA: 0x32e80
+_Ordinal_1212 Ord: 1212 RVA: 0x31090
+_Ordinal_1213 Ord: 1213 RVA: 0x335a0
+Imports: 
+DLL Name: win32u.dll
+DLL Functions: 
+     NtUserRegisterClassExWOW RVA: 0x87990
+
+DLL Name: ntdll.dll
+DLL Functions: 
+     memcmp RVA: 0x875f0
+
+DLL Name: api-ms-win-core-localization-l1-2-0.dll
+DLL Functions: 
+     IsDBCSLeadByteEx RVA: 0x87228
+
+DLL Name: api-ms-win-core-registry-l1-1-0.dll
+DLL Functions: 
+     RegCloseKey RVA: 0x873a0
+
+DLL Name: api-ms-win-core-heap-l2-1-0.dll
+DLL Functions: 
+     LocalReAlloc RVA: 0x87110
+
+DLL Name: api-ms-win-core-libraryloader-l1-2-0.dll
+DLL Functions: 
+     SizeofResource RVA: 0x871b8
+
+DLL Name: api-ms-win-eventing-provider-l1-1-0.dll
+DLL Functions: 
+     EventSetInformation RVA: 0x875a8
+
+DLL Name: api-ms-win-core-processthreads-l1-1-0.dll
+DLL Functions: 
+     CreateProcessW RVA: 0x87320
+
+DLL Name: api-ms-win-core-synch-l1-1-0.dll
+DLL Functions: 
+     InitializeSRWLock RVA: 0x87518
+
+DLL Name: api-ms-win-core-string-l1-1-0.dll
+DLL Functions: 
+     MultiByteToWideChar RVA: 0x87400
+
+DLL Name: api-ms-win-core-sysinfo-l1-1-0.dll
+DLL Functions: 
+     GetVersionExW RVA: 0x87578
+
+DLL Name: api-ms-win-security-base-l1-1-0.dll
+DLL Functions: 
+     CheckTokenMembership RVA: 0x875e0
+
+DLL Name: api-ms-win-core-handle-l1-1-0.dll
+DLL Functions: 
+     CloseHandle RVA: 0x870e8
+
+DLL Name: api-ms-win-core-errorhandling-l1-1-0.dll
+DLL Functions: 
+     UnhandledExceptionFilter RVA: 0x87078
+
+DLL Name: api-ms-win-core-string-l2-1-0.dll
+DLL Functions: 
+     IsCharUpperW RVA: 0x87438
+
+DLL Name: api-ms-win-core-synch-l1-2-0.dll
+DLL Functions: 
+     Sleep RVA: 0x87568
+
+DLL Name: api-ms-win-core-processenvironment-l1-1-0.dll
+DLL Functions: 
+     ExpandEnvironmentStringsW RVA: 0x872f8
+
+DLL Name: api-ms-win-core-file-l1-1-0.dll
+DLL Functions: 
+     SetFileTime RVA: 0x870a0
+
+DLL Name: api-ms-win-core-processthreads-l1-1-1.dll
+DLL Functions: 
+     GetProcessMitigationPolicy RVA: 0x87378
+
+DLL Name: api-ms-win-core-memory-l1-1-0.dll
+DLL Functions: 
+     CreateFileMappingW RVA: 0x87298
+
+DLL Name: api-ms-win-core-profile-l1-1-0.dll
+DLL Functions: 
+     QueryPerformanceCounter RVA: 0x87388
+
+DLL Name: api-ms-win-core-heap-l1-1-0.dll
+DLL Functions: 
+     HeapFree RVA: 0x870f8
+
+DLL Name: api-ms-win-core-memory-l1-1-3.dll
+DLL Functions: 
+     SetProcessValidCallTargets RVA: 0x872d0
+
+DLL Name: api-ms-win-core-privateprofile-l1-1-0.dll
+DLL Functions: 
+     WritePrivateProfileStringW RVA: 0x872e0
+
+DLL Name: api-ms-win-core-atoms-l1-1-0.dll
+DLL Functions: 
+     GetAtomNameA RVA: 0x86ff0
+
+DLL Name: api-ms-win-core-heap-obsolete-l1-1-0.dll
+DLL Functions: 
+     GlobalLock RVA: 0x87150
+
+DLL Name: api-ms-win-core-string-obsolete-l1-1-0.dll
+DLL Functions: 
+     lstrcmpiW RVA: 0x87490
+
+DLL Name: api-ms-win-core-localization-obsolete-l1-2-0.dll
+DLL Functions: 
+     GetStringTypeA RVA: 0x87288
+
+DLL Name: api-ms-win-core-stringansi-l1-1-0.dll
+DLL Functions: 
+     CharLowerBuffA RVA: 0x874b0
+
+DLL Name: api-ms-win-core-sidebyside-l1-1-0.dll
+DLL Functions: 
+     QueryActCtxSettingsW RVA: 0x873f0
+
+DLL Name: api-ms-win-core-kernel32-private-l1-1-0.dll
+DLL Functions: 
+     RegisterWaitForInputIdle RVA: 0x871a8
+
+DLL Name: KERNELBASE.dll
+DLL Functions: 
+     LoadStringBaseExW RVA: 0x86fb8
+
+DLL Name: api-ms-win-core-kernel32-legacy-l1-1-0.dll
+DLL Functions: 
+     MulDiv RVA: 0x87190
+
+DLL Name: api-ms-win-core-appinit-l1-1-0.dll
+DLL Functions: 
+     LoadAppInitDlls RVA: 0x86fe0
+
+DLL Name: GDI32.dll
+DLL Functions: 
+     PatBlt RVA: 0x86bf0
+
+DLL Name: api-ms-win-core-delayload-l1-1-1.dll
+DLL Functions: 
+     ResolveDelayLoadedAPI RVA: 0x87068
+
+DLL Name: api-ms-win-core-delayload-l1-1-0.dll
+DLL Functions: 
+     DelayLoadFailureHook RVA: 0x87058
+
+DLL Name: api-ms-win-core-apiquery-l1-1-0.dll
+DLL Functions: 
+     ApiSetQueryApiSetPresence RVA: 0x86fd0
+
+Resources: 
+Resource ID: 0x1, type: Type:9908, file offset: 0x18dc90, size: 0x110, language: English
+Resource ID: 0x1, type: Type:9880, file offset: 0xaf670, size: 0x11f6, language: English
+Resource ID: 0x4e, type: CURSOR, file offset: 0x105558, size: 0x334, language: English
+Resource ID: 0x4f, type: CURSOR, file offset: 0x105890, size: 0x134, language: English
+Resource ID: 0x50, type: CURSOR, file offset: 0x1059f0, size: 0x134, language: English
+Resource ID: 0x51, type: CURSOR, file offset: 0x105b28, size: 0x66c, language: English
+Resource ID: 0x52, type: CURSOR, file offset: 0x1061c0, size: 0x334, language: English
+Resource ID: 0x53, type: CURSOR, file offset: 0x1064f8, size: 0x134, language: English
+Resource ID: 0x54, type: CURSOR, file offset: 0x106658, size: 0x134, language: English
+Resource ID: 0x55, type: CURSOR, file offset: 0x106790, size: 0x334, language: English
+Resource ID: 0x56, type: CURSOR, file offset: 0x106af0, size: 0x334, language: English
+Resource ID: 0x57, type: CURSOR, file offset: 0x106e28, size: 0x134, language: English
+Resource ID: 0x58, type: CURSOR, file offset: 0x106f88, size: 0x334, language: English
+Resource ID: 0x59, type: CURSOR, file offset: 0x1072c0, size: 0x134, language: English
+Resource ID: 0x5a, type: CURSOR, file offset: 0x107420, size: 0x334, language: English
+Resource ID: 0x5b, type: CURSOR, file offset: 0x107758, size: 0x134, language: English
+Resource ID: 0x5c, type: CURSOR, file offset: 0x1078b8, size: 0x334, language: English
+Resource ID: 0x5d, type: CURSOR, file offset: 0x107bf0, size: 0x134, language: English
+Resource ID: 0x5e, type: CURSOR, file offset: 0x107d50, size: 0x334, language: English
+Resource ID: 0x5f, type: CURSOR, file offset: 0x108088, size: 0x134, language: English
+Resource ID: 0x60, type: CURSOR, file offset: 0x1081e8, size: 0x334, language: English
+Resource ID: 0x61, type: CURSOR, file offset: 0x108520, size: 0x134, language: English
+Resource ID: 0x62, type: CURSOR, file offset: 0x108680, size: 0x334, language: English
+Resource ID: 0x63, type: CURSOR, file offset: 0x1089b8, size: 0x134, language: English
+Resource ID: 0x64, type: CURSOR, file offset: 0x108b18, size: 0x334, language: English
+Resource ID: 0x65, type: CURSOR, file offset: 0x108e50, size: 0x134, language: English
+Resource ID: 0x66, type: CURSOR, file offset: 0x108fb0, size: 0x334, language: English
+Resource ID: 0x67, type: CURSOR, file offset: 0x1092e8, size: 0x134, language: English
+Resource ID: 0x68, type: CURSOR, file offset: 0x109448, size: 0x334, language: English
+Resource ID: 0x69, type: CURSOR, file offset: 0x109780, size: 0x134, language: English
+Resource ID: 0x6a, type: CURSOR, file offset: 0x1098e0, size: 0x334, language: English
+Resource ID: 0x6b, type: CURSOR, file offset: 0x109c18, size: 0x134, language: English
+Resource ID: 0x6c, type: CURSOR, file offset: 0x109d78, size: 0x334, language: English
+Resource ID: 0x6d, type: CURSOR, file offset: 0x10a0b0, size: 0x134, language: English
+Resource ID: 0x6e, type: CURSOR, file offset: 0x10a210, size: 0x66c, language: English
+Resource ID: 0x6f, type: CURSOR, file offset: 0x10a880, size: 0x2ec, language: English
+Resource ID: 0x70, type: CURSOR, file offset: 0x10ab98, size: 0x10ac, language: English
+Resource ID: 0x71, type: CURSOR, file offset: 0x10bc48, size: 0x25ac, language: English
+Resource ID: 0x72, type: CURSOR, file offset: 0x10e1f8, size: 0x422c, language: English
+Resource ID: 0x73, type: CURSOR, file offset: 0x112428, size: 0x94ac, language: English
+Resource ID: 0x74, type: CURSOR, file offset: 0x11b8d8, size: 0x1082c, language: English
+Resource ID: 0x75, type: CURSOR, file offset: 0x12c158, size: 0x10ac, language: English
+Resource ID: 0x76, type: CURSOR, file offset: 0x12d208, size: 0x25ac, language: English
+Resource ID: 0x77, type: CURSOR, file offset: 0x12f7b8, size: 0x422c, language: English
+Resource ID: 0x78, type: CURSOR, file offset: 0x1339e8, size: 0x94ac, language: English
+Resource ID: 0x79, type: CURSOR, file offset: 0x13ce98, size: 0x1082c, language: English
+Resource ID: 0x7a, type: CURSOR, file offset: 0x14d718, size: 0x334, language: English
+Resource ID: 0x7b, type: CURSOR, file offset: 0x14da50, size: 0x134, language: English
+Resource ID: 0x7c, type: CURSOR, file offset: 0x14dbb0, size: 0x334, language: English
+Resource ID: 0x7d, type: CURSOR, file offset: 0x14dee8, size: 0x134, language: English
+Resource ID: 0x7e, type: CURSOR, file offset: 0x14e048, size: 0x334, language: English
+Resource ID: 0x7f, type: CURSOR, file offset: 0x14e380, size: 0x134, language: English
+Resource ID: 0x80, type: CURSOR, file offset: 0x14e4e0, size: 0x334, language: English
+Resource ID: 0x81, type: CURSOR, file offset: 0x14e818, size: 0x134, language: English
+Resource ID: 0x82, type: CURSOR, file offset: 0x14e978, size: 0x334, language: English
+Resource ID: 0x83, type: CURSOR, file offset: 0x14ecb0, size: 0x134, language: English
+Resource ID: 0x84, type: CURSOR, file offset: 0x14ee10, size: 0x334, language: English
+Resource ID: 0x85, type: CURSOR, file offset: 0x14f148, size: 0x134, language: English
+Resource ID: 0x86, type: CURSOR, file offset: 0x14f2a8, size: 0x334, language: English
+Resource ID: 0x87, type: CURSOR, file offset: 0x14f5e0, size: 0x134, language: English
+Resource ID: 0x88, type: CURSOR, file offset: 0x14f740, size: 0x334, language: English
+Resource ID: 0x89, type: CURSOR, file offset: 0x14fa78, size: 0x134, language: English
+Resource ID: 0x8a, type: CURSOR, file offset: 0x14fbd8, size: 0x334, language: English
+Resource ID: 0x8b, type: CURSOR, file offset: 0x14ff10, size: 0x134, language: English
+Resource ID: 0x8c, type: CURSOR, file offset: 0x150070, size: 0x334, language: English
+Resource ID: 0x8d, type: CURSOR, file offset: 0x1503a8, size: 0x134, language: English
+Resource ID: 0x8e, type: CURSOR, file offset: 0x150508, size: 0x334, language: English
+Resource ID: 0x8f, type: CURSOR, file offset: 0x150840, size: 0x134, language: English
+Resource ID: 0x90, type: CURSOR, file offset: 0x1509a0, size: 0x10ac, language: English
+Resource ID: 0x91, type: CURSOR, file offset: 0x177768, size: 0x10ac, language: English
+Resource ID: 0x92, type: CURSOR, file offset: 0x178830, size: 0x10ac, language: English
+Resource ID: 0x93, type: CURSOR, file offset: 0x18c778, size: 0x10ac, language: English
+Resource ID: 0x24, type: BITMAP, file offset: 0xb0868, size: 0x650, language: English
+Resource ID: 0x88, type: BITMAP, file offset: 0xb0eb8, size: 0xf8, language: English
+Resource ID: 0xec, type: BITMAP, file offset: 0xb0fb0, size: 0x168, language: English
+Resource ID: 0x7f2f, type: BITMAP, file offset: 0x18d840, size: 0x142, language: English
+Resource ID: 0x7f94, type: BITMAP, file offset: 0x18d988, size: 0x172, language: English
+Resource ID: 0x7f95, type: BITMAP, file offset: 0x18db00, size: 0x18a, language: English
+Resource ID: 0x7fdb, type: BITMAP, file offset: 0x1054a0, size: 0xb8, language: English
+Resource ID: 0x1, type: ICON, file offset: 0xb1118, size: 0xa68, language: English
+Resource ID: 0x2, type: ICON, file offset: 0xb1b80, size: 0x2e8, language: English
+Resource ID: 0x3, type: ICON, file offset: 0xb1e68, size: 0x128, language: English
+Resource ID: 0x4, type: ICON, file offset: 0xb1f90, size: 0x1628, language: English
+Resource ID: 0x5, type: ICON, file offset: 0xb35b8, size: 0xea8, language: English
+Resource ID: 0x6, type: ICON, file offset: 0xb4460, size: 0x8a8, language: English
+Resource ID: 0x7, type: ICON, file offset: 0xb4d08, size: 0x568, language: English
+Resource ID: 0x8, type: ICON, file offset: 0xb5270, size: 0x4228, language: English
+Resource ID: 0x9, type: ICON, file offset: 0xb9498, size: 0x25a8, language: English
+Resource ID: 0xa, type: ICON, file offset: 0xbba40, size: 0x10a8, language: English
+Resource ID: 0xb, type: ICON, file offset: 0xbcae8, size: 0x468, language: English
+Resource ID: 0xc, type: ICON, file offset: 0xbcff0, size: 0x130, language: English
+Resource ID: 0xd, type: ICON, file offset: 0xbd120, size: 0xa68, language: English
+Resource ID: 0xe, type: ICON, file offset: 0xbdb88, size: 0x2e8, language: English
+Resource ID: 0xf, type: ICON, file offset: 0xbde70, size: 0x128, language: English
+Resource ID: 0x10, type: ICON, file offset: 0xbdf98, size: 0x1628, language: English
+Resource ID: 0x11, type: ICON, file offset: 0xbf5c0, size: 0xea8, language: English
+Resource ID: 0x12, type: ICON, file offset: 0xc0468, size: 0x8a8, language: English
+Resource ID: 0x13, type: ICON, file offset: 0xc0d10, size: 0x568, language: English
+Resource ID: 0x14, type: ICON, file offset: 0xc1278, size: 0x4228, language: English
+Resource ID: 0x15, type: ICON, file offset: 0xc54a0, size: 0x25a8, language: English
+Resource ID: 0x16, type: ICON, file offset: 0xc7a48, size: 0x10a8, language: English
+Resource ID: 0x17, type: ICON, file offset: 0xc8af0, size: 0x468, language: English
+Resource ID: 0x18, type: ICON, file offset: 0xc9008, size: 0x130, language: English
+Resource ID: 0x19, type: ICON, file offset: 0xc9138, size: 0xa68, language: English
+Resource ID: 0x1a, type: ICON, file offset: 0xc9ba0, size: 0x2e8, language: English
+Resource ID: 0x1b, type: ICON, file offset: 0xc9e88, size: 0x1628, language: English
+Resource ID: 0x1c, type: ICON, file offset: 0xcb4b0, size: 0xea8, language: English
+Resource ID: 0x1d, type: ICON, file offset: 0xcc358, size: 0x8a8, language: English
+Resource ID: 0x1e, type: ICON, file offset: 0xccc00, size: 0x568, language: English
+Resource ID: 0x1f, type: ICON, file offset: 0xcd168, size: 0x4228, language: English
+Resource ID: 0x20, type: ICON, file offset: 0xd1390, size: 0x25a8, language: English
+Resource ID: 0x21, type: ICON, file offset: 0xd3938, size: 0x10a8, language: English
+Resource ID: 0x22, type: ICON, file offset: 0xd49e0, size: 0x468, language: English
+Resource ID: 0x23, type: ICON, file offset: 0xd4ee8, size: 0x130, language: English
+Resource ID: 0x24, type: ICON, file offset: 0xd5018, size: 0xa68, language: English
+Resource ID: 0x25, type: ICON, file offset: 0xd5a80, size: 0x2e8, language: English
+Resource ID: 0x26, type: ICON, file offset: 0xd5d68, size: 0x128, language: English
+Resource ID: 0x27, type: ICON, file offset: 0xd5e90, size: 0x1628, language: English
+Resource ID: 0x28, type: ICON, file offset: 0xd74b8, size: 0xea8, language: English
+Resource ID: 0x29, type: ICON, file offset: 0xd8360, size: 0x8a8, language: English
+Resource ID: 0x2a, type: ICON, file offset: 0xd8c08, size: 0x568, language: English
+Resource ID: 0x2b, type: ICON, file offset: 0xd9170, size: 0x4228, language: English
+Resource ID: 0x2c, type: ICON, file offset: 0xdd398, size: 0x25a8, language: English
+Resource ID: 0x2d, type: ICON, file offset: 0xdf940, size: 0x10a8, language: English
+Resource ID: 0x2e, type: ICON, file offset: 0xe09e8, size: 0x468, language: English
+Resource ID: 0x2f, type: ICON, file offset: 0xe0f00, size: 0x130, language: English
+Resource ID: 0x30, type: ICON, file offset: 0xe1030, size: 0xa68, language: English
+Resource ID: 0x31, type: ICON, file offset: 0xe1a98, size: 0x2e8, language: English
+Resource ID: 0x32, type: ICON, file offset: 0xe1d80, size: 0x128, language: English
+Resource ID: 0x33, type: ICON, file offset: 0xe1ea8, size: 0x1628, language: English
+Resource ID: 0x34, type: ICON, file offset: 0xe34d0, size: 0xea8, language: English
+Resource ID: 0x35, type: ICON, file offset: 0xe4378, size: 0x8a8, language: English
+Resource ID: 0x36, type: ICON, file offset: 0xe4c20, size: 0x568, language: English
+Resource ID: 0x37, type: ICON, file offset: 0xe5188, size: 0x4228, language: English
+Resource ID: 0x38, type: ICON, file offset: 0xe93b0, size: 0x25a8, language: English
+Resource ID: 0x39, type: ICON, file offset: 0xeb958, size: 0x10a8, language: English
+Resource ID: 0x3a, type: ICON, file offset: 0xeca00, size: 0x468, language: English
+Resource ID: 0x3b, type: ICON, file offset: 0xecf18, size: 0xa68, language: English
+Resource ID: 0x3c, type: ICON, file offset: 0xed980, size: 0x2e8, language: English
+Resource ID: 0x3d, type: ICON, file offset: 0xedc68, size: 0x128, language: English
+Resource ID: 0x3e, type: ICON, file offset: 0xedd90, size: 0x1628, language: English
+Resource ID: 0x3f, type: ICON, file offset: 0xef3b8, size: 0xea8, language: English
+Resource ID: 0x40, type: ICON, file offset: 0xf0260, size: 0x8a8, language: English
+Resource ID: 0x41, type: ICON, file offset: 0xf0b08, size: 0x568, language: English
+Resource ID: 0x42, type: ICON, file offset: 0xf1070, size: 0x4228, language: English
+Resource ID: 0x43, type: ICON, file offset: 0xf5298, size: 0x25a8, language: English
+Resource ID: 0x44, type: ICON, file offset: 0xf7840, size: 0x10a8, language: English
+Resource ID: 0x45, type: ICON, file offset: 0xf88e8, size: 0x468, language: English
+Resource ID: 0x46, type: ICON, file offset: 0xf8df0, size: 0x1ea9, language: English
+Resource ID: 0x47, type: ICON, file offset: 0xfaca0, size: 0x4228, language: English
+Resource ID: 0x48, type: ICON, file offset: 0xfeec8, size: 0x25a8, language: English
+Resource ID: 0x49, type: ICON, file offset: 0x101470, size: 0x1a68, language: English
+Resource ID: 0x4a, type: ICON, file offset: 0x102ed8, size: 0x10a8, language: English
+Resource ID: 0x4b, type: ICON, file offset: 0x103f80, size: 0x988, language: English
+Resource ID: 0x4c, type: ICON, file offset: 0x104908, size: 0x6b8, language: English
+Resource ID: 0x4d, type: ICON, file offset: 0x104fc0, size: 0x468, language: English
+Resource ID: 0x64, type: GROUP CURSOR, file offset: 0x1059c8, size: 0x22, language: English
+Resource ID: 0x65, type: GROUP CURSOR, file offset: 0x106198, size: 0x22, language: English
+Resource ID: 0x66, type: GROUP CURSOR, file offset: 0x106630, size: 0x22, language: English
+Resource ID: 0x67, type: GROUP CURSOR, file offset: 0x106ac8, size: 0x22, language: English
+Resource ID: 0x68, type: GROUP CURSOR, file offset: 0x106f60, size: 0x22, language: English
+Resource ID: 0x69, type: GROUP CURSOR, file offset: 0x1073f8, size: 0x22, language: English
+Resource ID: 0x6a, type: GROUP CURSOR, file offset: 0x107890, size: 0x22, language: English
+Resource ID: 0x6b, type: GROUP CURSOR, file offset: 0x107d28, size: 0x22, language: English
+Resource ID: 0x6c, type: GROUP CURSOR, file offset: 0x1081c0, size: 0x22, language: English
+Resource ID: 0x6d, type: GROUP CURSOR, file offset: 0x108658, size: 0x22, language: English
+Resource ID: 0x6e, type: GROUP CURSOR, file offset: 0x108af0, size: 0x22, language: English
+Resource ID: 0x6f, type: GROUP CURSOR, file offset: 0x108f88, size: 0x22, language: English
+Resource ID: 0x70, type: GROUP CURSOR, file offset: 0x109420, size: 0x22, language: English
+Resource ID: 0x71, type: GROUP CURSOR, file offset: 0x1098b8, size: 0x22, language: English
+Resource ID: 0x72, type: GROUP CURSOR, file offset: 0x109d50, size: 0x22, language: English
+Resource ID: 0x73, type: GROUP CURSOR, file offset: 0x10a1e8, size: 0x22, language: English
+Resource ID: 0x74, type: GROUP CURSOR, file offset: 0x10ab70, size: 0x22, language: English
+Resource ID: 0x75, type: GROUP CURSOR, file offset: 0x12c108, size: 0x4c, language: English
+Resource ID: 0x76, type: GROUP CURSOR, file offset: 0x14d6c8, size: 0x4c, language: English
+Resource ID: 0x7f8c, type: GROUP CURSOR, file offset: 0x14db88, size: 0x22, language: English
+Resource ID: 0x7f8d, type: GROUP CURSOR, file offset: 0x14e020, size: 0x22, language: English
+Resource ID: 0x7f8e, type: GROUP CURSOR, file offset: 0x14e4b8, size: 0x22, language: English
+Resource ID: 0x7f8f, type: GROUP CURSOR, file offset: 0x14e950, size: 0x22, language: English
+Resource ID: 0x7f90, type: GROUP CURSOR, file offset: 0x14ede8, size: 0x22, language: English
+Resource ID: 0x7f91, type: GROUP CURSOR, file offset: 0x14f280, size: 0x22, language: English
+Resource ID: 0x7f92, type: GROUP CURSOR, file offset: 0x14f718, size: 0x22, language: English
+Resource ID: 0x7f93, type: GROUP CURSOR, file offset: 0x14fbb0, size: 0x22, language: English
+Resource ID: 0x7f94, type: GROUP CURSOR, file offset: 0x150048, size: 0x22, language: English
+Resource ID: 0x7f95, type: GROUP CURSOR, file offset: 0x1504e0, size: 0x22, language: English
+Resource ID: 0x7f96, type: GROUP CURSOR, file offset: 0x150978, size: 0x22, language: English
+Resource ID: 0x7f98, type: GROUP CURSOR, file offset: 0x151a50, size: 0x14, language: English
+Resource ID: 0x7f9b, type: GROUP CURSOR, file offset: 0x178818, size: 0x14, language: English
+Resource ID: 0x7f9c, type: GROUP CURSOR, file offset: 0x1798e0, size: 0x14, language: English
+Resource ID: 0x7f9e, type: GROUP CURSOR, file offset: 0x18d828, size: 0x14, language: English
+Resource ID: 0x64, type: GROUP ICON, file offset: 0xf8d50, size: 0xa0, language: English
+Resource ID: 0x65, type: GROUP ICON, file offset: 0xc8f58, size: 0xae, language: English
+Resource ID: 0x66, type: GROUP ICON, file offset: 0xd4e48, size: 0xa0, language: English
+Resource ID: 0x67, type: GROUP ICON, file offset: 0xe0e50, size: 0xae, language: English
+Resource ID: 0x68, type: GROUP ICON, file offset: 0xece68, size: 0xae, language: English
+Resource ID: 0x69, type: GROUP ICON, file offset: 0xbcf50, size: 0xa0, language: English
+Resource ID: 0x6a, type: GROUP ICON, file offset: 0x105428, size: 0x76, language: English
+Resource ID: 0x1, type: VERSION, file offset: 0xaf2c0, size: 0x3ac, language: English
+Resource ID: 0x7f99, type: ANICURSOR, file offset: 0x151a68, size: 0x12e80, language: English
+Resource ID: 0x7f9a, type: ANICURSOR, file offset: 0x1648e8, size: 0x12e80, language: English
+Resource ID: 0x7f9d, type: ANICURSOR, file offset: 0x1798f8, size: 0x12e80, language: English

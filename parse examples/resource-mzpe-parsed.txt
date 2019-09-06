@@ -1,0 +1,55 @@
+MZPE Information:
+
+Information: 
+Machine : Intel I386
+Type : DLL
+Created : Fri Sep  6 22:40:14 2019
+Architecture : 32 bit
+
+Exports: 
+
+Imports: 
+DLL Name: MSVCR80.dll
+DLL Functions: 
+     _lock RVA: 0x2038
+     __dllonexit RVA: 0x203c
+     _except_handler4_common RVA: 0x2040
+     _unlock RVA: 0x2044
+     __clean_type_info_names_internal RVA: 0x2048
+     _crt_debugger_hook RVA: 0x204c
+     __CppXcptFilter RVA: 0x2050
+     _adjust_fdiv RVA: 0x2054
+     _amsg_exit RVA: 0x2058
+     _initterm_e RVA: 0x205c
+     _initterm RVA: 0x2060
+     _decode_pointer RVA: 0x2064
+     free RVA: 0x2068
+     _encoded_null RVA: 0x206c
+     _malloc_crt RVA: 0x2070
+     _onexit RVA: 0x2074
+     _encode_pointer RVA: 0x2078
+
+DLL Name: KERNEL32.dll
+DLL Functions: 
+     GetCurrentProcessId RVA: 0x2000
+     GetCurrentThreadId RVA: 0x2004
+     GetTickCount RVA: 0x2008
+     QueryPerformanceCounter RVA: 0x200c
+     IsDebuggerPresent RVA: 0x2010
+     SetUnhandledExceptionFilter RVA: 0x2014
+     UnhandledExceptionFilter RVA: 0x2018
+     GetCurrentProcess RVA: 0x201c
+     TerminateProcess RVA: 0x2020
+     InterlockedCompareExchange RVA: 0x2024
+     Sleep RVA: 0x2028
+     InterlockedExchange RVA: 0x202c
+     GetSystemTimeAsFileTime RVA: 0x2030
+
+Resources: 
+Resource ID: 0x7, type: STRING, file offset: 0x15c0, size: 0x1152, language: English
+Resource ID: 0x8, type: STRING, file offset: 0x2714, size: 0x12a2, language: English
+Resource ID: 0x9, type: STRING, file offset: 0x39b8, size: 0x1bc, language: English
+Resource ID: 0x63, type: RCDATA, file offset: 0x3b74, size: 0x4, language: 0x0
+Resource ID: 0x64, type: RCDATA, file offset: 0x3b78, size: 0xce61, language: 0x0
+Resource ID: 0x1, type: VERSION, file offset: 0x109dc, size: 0x47c, language: 0x0
+Resource ID: 0x2, type: MANIFEST, file offset: 0x10e58, size: 0x152, language: English
